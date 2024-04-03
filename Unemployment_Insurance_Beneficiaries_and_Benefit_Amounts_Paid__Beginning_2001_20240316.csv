@@ -1,0 +1,1386 @@
+Year,Month,Region,County,Beneficiaries, Benefit Amounts (Dollars) 
+2001,1,New York City,Bronx,13800,12290000
+2001,1,New York City,Kings,26900,23980000
+2001,1,New York City,New York,17600,18990000
+2001,1,New York City,Queens,20600,19850000
+2001,1,New York City,Richmond,4300,4110000
+2001,2,New York City,Bronx,12800,10400000
+2001,2,New York City,Kings,24300,20040000
+2001,2,New York City,New York,17300,16590000
+2001,2,New York City,Queens,19200,16910000
+2001,2,New York City,Richmond,3600,3280000
+2001,3,New York City,Bronx,13200,10930000
+2001,3,New York City,Kings,25000,21290000
+2001,3,New York City,New York,18100,18170000
+2001,3,New York City,Queens,20100,18030000
+2001,3,New York City,Richmond,3500,3350000
+2001,4,New York City,Bronx,13900,11680000
+2001,4,New York City,Kings,27500,23170000
+2001,4,New York City,New York,19200,19980000
+2001,4,New York City,Queens,21400,19300000
+2001,4,New York City,Richmond,4200,3850000
+2001,5,New York City,Bronx,13400,12070000
+2001,5,New York City,Kings,26100,24420000
+2001,5,New York City,New York,20400,22680000
+2001,5,New York City,Queens,20700,20130000
+2001,5,New York City,Richmond,3600,3880000
+2001,6,New York City,Bronx,13300,11250000
+2001,6,New York City,Kings,26000,23520000
+2001,6,New York City,New York,21400,22440000
+2001,6,New York City,Queens,20200,19120000
+2001,6,New York City,Richmond,3700,3800000
+2001,7,New York City,Bronx,15200,14550000
+2001,7,New York City,Kings,30200,30180000
+2001,7,New York City,New York,23800,27930000
+2001,7,New York City,Queens,23100,24360000
+2001,7,New York City,Richmond,4800,5430000
+2001,8,New York City,Bronx,15500,13710000
+2001,8,New York City,Kings,30900,29500000
+2001,8,New York City,New York,24300,27250000
+2001,8,New York City,Queens,23100,23080000
+2001,8,New York City,Richmond,5000,5190000
+2001,9,New York City,Bronx,16500,13260000
+2001,9,New York City,Kings,33300,27710000
+2001,9,New York City,New York,25400,25880000
+2001,9,New York City,Queens,24900,22210000
+2001,9,New York City,Richmond,5200,4630000
+2001,10,New York City,Bronx,18600,18390000
+2001,10,New York City,Kings,36900,37800000
+2001,10,New York City,New York,30000,35630000
+2001,10,New York City,Queens,30000,31750000
+2001,10,New York City,Richmond,5000,5890000
+2001,11,New York City,Bronx,18300,16480000
+2001,11,New York City,Kings,36900,34340000
+2001,11,New York City,New York,30300,32210000
+2001,11,New York City,Queens,30300,29620000
+2001,11,New York City,Richmond,5000,5170000
+2001,12,New York City,Bronx,19300,18040000
+2001,12,New York City,Kings,39400,37340000
+2001,12,New York City,New York,31100,34560000
+2001,12,New York City,Queens,32300,32860000
+2001,12,New York City,Richmond,5800,6010000
+2002,1,New York City,Bronx,21700,20330000
+2002,1,New York City,Kings,44100,43070000
+2002,1,New York City,New York,33700,38810000
+2002,1,New York City,Queens,36300,37480000
+2002,1,New York City,Richmond,6200,6670000
+2002,2,New York City,Bronx,20200,17680000
+2002,2,New York City,Kings,40800,36780000
+2002,2,New York City,New York,31800,33050000
+2002,2,New York City,Queens,34000,32510000
+2002,2,New York City,Richmond,5800,5860000
+2002,3,New York City,Bronx,19900,17150000
+2002,3,New York City,Kings,39800,35640000
+2002,3,New York City,New York,30900,32070000
+2002,3,New York City,Queens,33300,31630000
+2002,3,New York City,Richmond,5600,5730000
+2002,4,New York City,Bronx,20600,18740000
+2002,4,New York City,Kings,41600,38530000
+2002,4,New York City,New York,30600,34500000
+2002,4,New York City,Queens,33800,33880000
+2002,4,New York City,Richmond,6500,6660000
+2002,5,New York City,Bronx,17700,15890000
+2002,5,New York City,Kings,34700,32610000
+2002,5,New York City,New York,27600,29390000
+2002,5,New York City,Queens,27900,27650000
+2002,5,New York City,Richmond,5100,5520000
+2002,6,New York City,Bronx,16600,14450000
+2002,6,New York City,Kings,31900,28970000
+2002,6,New York City,New York,26000,26690000
+2002,6,New York City,Queens,25600,24380000
+2002,6,New York City,Richmond,4900,5110000
+2002,7,New York City,Bronx,18500,18370000
+2002,7,New York City,Kings,35800,36930000
+2002,7,New York City,New York,27200,32420000
+2002,7,New York City,Queens,28000,30440000
+2002,7,New York City,Richmond,6000,7110000
+2002,8,New York City,Bronx,17500,15230000
+2002,8,New York City,Kings,34200,31160000
+2002,8,New York City,New York,25500,26760000
+2002,8,New York City,Queens,26200,25140000
+2002,8,New York City,Richmond,5800,5990000
+2002,9,New York City,Bronx,18000,16130000
+2002,9,New York City,Kings,35100,31610000
+2002,9,New York City,New York,25400,27190000
+2002,9,New York City,Queens,26700,25880000
+2002,9,New York City,Richmond,5700,5690000
+2002,10,New York City,Bronx,16800,15560000
+2002,10,New York City,Kings,31600,30360000
+2002,10,New York City,New York,24500,26780000
+2002,10,New York City,Queens,24500,25290000
+2002,10,New York City,Richmond,4600,5120000
+2002,11,New York City,Bronx,16600,14150000
+2002,11,New York City,Kings,30700,27210000
+2002,11,New York City,New York,23400,23190000
+2002,11,New York City,Queens,23900,22380000
+2002,11,New York City,Richmond,4400,4530000
+2002,12,New York City,Bronx,18100,17600000
+2002,12,New York City,Kings,34700,33660000
+2002,12,New York City,New York,24300,27160000
+2002,12,New York City,Queens,27100,28350000
+2002,12,New York City,Richmond,5700,6010000
+2003,1,New York City,Bronx,19700,17030000
+2003,1,New York City,Kings,37200,32800000
+2003,1,New York City,New York,25900,26460000
+2003,1,New York City,Queens,29600,28150000
+2003,1,New York City,Richmond,5700,5760000
+2003,2,New York City,Bronx,18800,16220000
+2003,2,New York City,Kings,35000,30990000
+2003,2,New York City,New York,24600,24160000
+2003,2,New York City,Queens,28400,26850000
+2003,2,New York City,Richmond,5500,5590000
+2003,3,New York City,Bronx,19400,18340000
+2003,3,New York City,Kings,35400,34460000
+2003,3,New York City,New York,24900,26590000
+2003,3,New York City,Queens,29000,29990000
+2003,3,New York City,Richmond,5400,6170000
+2003,4,New York City,Bronx,19400,17120000
+2003,4,New York City,Kings,36700,33480000
+2003,4,New York City,New York,24600,25910000
+2003,4,New York City,Queens,29300,28520000
+2003,4,New York City,Richmond,5900,5890000
+2003,5,New York City,Bronx,18100,14980000
+2003,5,New York City,Kings,34100,29520000
+2003,5,New York City,New York,23300,23220000
+2003,5,New York City,Queens,27300,25070000
+2003,5,New York City,Richmond,4900,5050000
+2003,6,New York City,Bronx,17700,16890000
+2003,6,New York City,Kings,33100,32190000
+2003,6,New York City,New York,23600,25550000
+2003,6,New York City,Queens,26400,27080000
+2003,6,New York City,Richmond,5000,5500000
+2003,7,New York City,Bronx,19600,17830000
+2003,7,New York City,Kings,36800,34880000
+2003,7,New York City,New York,24800,26620000
+2003,7,New York City,Queens,28400,28720000
+2003,7,New York City,Richmond,6100,6430000
+2003,8,New York City,Bronx,18700,16120000
+2003,8,New York City,Kings,34600,30930000
+2003,8,New York City,New York,23300,23110000
+2003,8,New York City,Queens,26500,25130000
+2003,8,New York City,Richmond,5700,5800000
+2003,9,New York City,Bronx,19700,18360000
+2003,9,New York City,Kings,36200,34040000
+2003,9,New York City,New York,23500,25580000
+2003,9,New York City,Queens,27600,28170000
+2003,9,New York City,Richmond,5800,5970000
+2003,10,New York City,Bronx,16900,15160000
+2003,10,New York City,Kings,30200,27890000
+2003,10,New York City,New York,21000,21360000
+2003,10,New York City,Queens,23600,23340000
+2003,10,New York City,Richmond,4400,4580000
+2003,11,New York City,Bronx,16700,14360000
+2003,11,New York City,Kings,29300,26030000
+2003,11,New York City,New York,19800,19140000
+2003,11,New York City,Queens,22700,21540000
+2003,11,New York City,Richmond,4300,4380000
+2003,12,New York City,Bronx,17700,17960000
+2003,12,New York City,Kings,31200,31860000
+2003,12,New York City,New York,20600,23000000
+2003,12,New York City,Queens,24800,26990000
+2003,12,New York City,Richmond,5000,5540000
+2004,1,New York City,Bronx,18900,15410000
+2004,1,New York City,Kings,33700,28000000
+2004,1,New York City,New York,21100,20100000
+2004,1,New York City,Queens,26900,24390000
+2004,1,New York City,Richmond,5800,5060000
+2004,2,New York City,Bronx,17600,15120000
+2004,2,New York City,Kings,30700,26930000
+2004,2,New York City,New York,20000,19180000
+2004,2,New York City,Queens,25400,23820000
+2004,2,New York City,Richmond,5100,4850000
+2004,3,New York City,Bronx,17800,17700000
+2004,3,New York City,Kings,30600,31100000
+2004,3,New York City,New York,20200,22190000
+2004,3,New York City,Queens,25500,27820000
+2004,3,New York City,Richmond,4800,5500000
+2004,4,New York City,Bronx,16900,13340000
+2004,4,New York City,Kings,30900,24880000
+2004,4,New York City,New York,18500,17500000
+2004,4,New York City,Queens,24300,21450000
+2004,4,New York City,Richmond,5200,4400000
+2004,5,New York City,Bronx,14200,12020000
+2004,5,New York City,Kings,25200,21980000
+2004,5,New York City,New York,17300,16350000
+2004,5,New York City,Queens,20400,19200000
+2004,5,New York City,Richmond,3900,3910000
+2004,6,New York City,Bronx,14200,14380000
+2004,6,New York City,Kings,25200,26030000
+2004,6,New York City,New York,17700,19980000
+2004,6,New York City,Queens,20400,22640000
+2004,6,New York City,Richmond,4100,4720000
+2004,7,New York City,Bronx,15500,13170000
+2004,7,New York City,Kings,28600,25020000
+2004,7,New York City,New York,18500,17920000
+2004,7,New York City,Queens,22100,20940000
+2004,7,New York City,Richmond,5100,5040000
+2004,8,New York City,Bronx,15400,15360000
+2004,8,New York City,Kings,28100,28830000
+2004,8,New York City,New York,18500,20800000
+2004,8,New York City,Queens,21700,23460000
+2004,8,New York City,Richmond,5200,5820000
+2004,9,New York City,Bronx,15300,12920000
+2004,9,New York City,Kings,28300,24110000
+2004,9,New York City,New York,18200,17830000
+2004,9,New York City,Queens,21400,19750000
+2004,9,New York City,Richmond,4900,4410000
+2004,10,New York City,Bronx,13200,11350000
+2004,10,New York City,Kings,22900,20250000
+2004,10,New York City,New York,16600,15930000
+2004,10,New York City,Queens,18300,17470000
+2004,10,New York City,Richmond,3600,3590000
+2004,11,New York City,Bronx,13700,13310000
+2004,11,New York City,Kings,23300,23130000
+2004,11,New York City,New York,16800,18020000
+2004,11,New York City,Queens,18800,20140000
+2004,11,New York City,Richmond,3700,4110000
+2004,12,New York City,Bronx,13800,12620000
+2004,12,New York City,Kings,23700,22420000
+2004,12,New York City,New York,16800,16910000
+2004,12,New York City,Queens,19600,19790000
+2004,12,New York City,Richmond,3900,3990000
+2005,1,New York City,Bronx,16600,14450000
+2005,1,New York City,Kings,29600,25460000
+2005,1,New York City,New York,19100,18790000
+2005,1,New York City,Queens,24400,22760000
+2005,1,New York City,Richmond,5300,4780000
+2005,2,New York City,Bronx,14600,12620000
+2005,2,New York City,Kings,25400,22610000
+2005,2,New York City,New York,17400,16490000
+2005,2,New York City,Queens,21800,20890000
+2005,2,New York City,Richmond,4200,4150000
+2005,3,New York City,Bronx,15100,14310000
+2005,3,New York City,Kings,25900,25330000
+2005,3,New York City,New York,17500,18380000
+2005,3,New York City,Queens,22400,23540000
+2005,3,New York City,Richmond,4300,4640000
+2005,4,New York City,Bronx,13800,11940000
+2005,4,New York City,Kings,23700,21340000
+2005,4,New York City,New York,16200,15430000
+2005,4,New York City,Queens,20400,19440000
+2005,4,New York City,Richmond,3900,3880000
+2005,5,New York City,Bronx,14600,13640000
+2005,5,New York City,Kings,26400,24340000
+2005,5,New York City,New York,16600,17510000
+2005,5,New York City,Queens,21000,21500000
+2005,5,New York City,Richmond,4700,4560000
+2005,6,New York City,Bronx,13000,12160000
+2005,6,New York City,Kings,22500,21820000
+2005,6,New York City,New York,16000,16830000
+2005,6,New York City,Queens,18600,19670000
+2005,6,New York City,Richmond,3800,4060000
+2005,7,New York City,Bronx,14700,12480000
+2005,7,New York City,Kings,25800,22590000
+2005,7,New York City,New York,16900,16160000
+2005,7,New York City,Queens,20400,19360000
+2005,7,New York City,Richmond,4800,4500000
+2005,8,New York City,Bronx,15000,15370000
+2005,8,New York City,Kings,26600,27950000
+2005,8,New York City,New York,17300,19580000
+2005,8,New York City,Queens,20800,23050000
+2005,8,New York City,Richmond,4900,5740000
+2005,9,New York City,Bronx,14600,12120000
+2005,9,New York City,Kings,25900,21620000
+2005,9,New York City,New York,16400,15980000
+2005,9,New York City,Queens,20000,18240000
+2005,9,New York City,Richmond,4700,3990000
+2005,10,New York City,Bronx,13000,12380000
+2005,10,New York City,Kings,22000,21270000
+2005,10,New York City,New York,15500,16120000
+2005,10,New York City,Queens,17700,18280000
+2005,10,New York City,Richmond,3600,3700000
+2005,11,New York City,Bronx,12700,11990000
+2005,11,New York City,Kings,21500,20940000
+2005,11,New York City,New York,15200,15870000
+2005,11,New York City,Queens,17200,18200000
+2005,11,New York City,Richmond,3400,3590000
+2005,12,New York City,Bronx,13000,11790000
+2005,12,New York City,Kings,21800,20270000
+2005,12,New York City,New York,15300,15270000
+2005,12,New York City,Queens,18000,17910000
+2005,12,New York City,Richmond,3700,3680000
+2006,1,New York City,Bronx,15700,14830000
+2006,1,New York City,Kings,27400,25800000
+2006,1,New York City,New York,17800,18850000
+2006,1,New York City,Queens,22400,23090000
+2006,1,New York City,Richmond,5000,4890000
+2006,2,New York City,Bronx,13700,12150000
+2006,2,New York City,Kings,23200,21220000
+2006,2,New York City,New York,15900,15660000
+2006,2,New York City,Queens,19600,19590000
+2006,2,New York City,Richmond,3800,3950000
+2006,3,New York City,Bronx,13900,12660000
+2006,3,New York City,Kings,23400,21900000
+2006,3,New York City,New York,16100,16290000
+2006,3,New York City,Queens,20100,20110000
+2006,3,New York City,Richmond,3800,3980000
+2006,4,New York City,Bronx,13800,11230000
+2006,4,New York City,Kings,24200,19810000
+2006,4,New York City,New York,15500,14530000
+2006,4,New York City,Queens,19400,17590000
+2006,4,New York City,Richmond,4400,3730000
+2006,5,New York City,Bronx,13200,12900000
+2006,5,New York City,Kings,22500,22480000
+2006,5,New York City,New York,15300,16940000
+2006,5,New York City,Queens,18500,19980000
+2006,5,New York City,Richmond,3600,4090000
+2006,6,New York City,Bronx,11900,10780000
+2006,6,New York City,Kings,20200,18980000
+2006,6,New York City,New York,15000,15320000
+2006,6,New York City,Queens,16500,16920000
+2006,6,New York City,Richmond,3300,3400000
+2006,7,New York City,Bronx,14000,13250000
+2006,7,New York City,Kings,24600,23530000
+2006,7,New York City,New York,16000,16660000
+2006,7,New York City,Queens,18900,19740000
+2006,7,New York City,Richmond,4600,4810000
+2006,8,New York City,Bronx,14200,13600000
+2006,8,New York City,Kings,24600,24490000
+2006,8,New York City,New York,16000,17570000
+2006,8,New York City,Queens,18700,20010000
+2006,8,New York City,Richmond,4600,4980000
+2006,9,New York City,Bronx,14300,11640000
+2006,9,New York City,Kings,24500,19770000
+2006,9,New York City,New York,15700,15190000
+2006,9,New York City,Queens,18300,16490000
+2006,9,New York City,Richmond,4400,3610000
+2006,10,New York City,Bronx,12700,12710000
+2006,10,New York City,Kings,20400,21290000
+2006,10,New York City,New York,14700,16360000
+2006,10,New York City,Queens,16000,17880000
+2006,10,New York City,Richmond,3400,3800000
+2006,11,New York City,Bronx,12300,11080000
+2006,11,New York City,Kings,20100,18960000
+2006,11,New York City,New York,14100,14110000
+2006,11,New York City,Queens,15800,15690000
+2006,11,New York City,Richmond,3300,3350000
+2006,12,New York City,Bronx,12700,11140000
+2006,12,New York City,Kings,20700,19290000
+2006,12,New York City,New York,14200,13910000
+2006,12,New York City,Queens,16300,15940000
+2006,12,New York City,Richmond,3400,3380000
+2007,1,New York City,Bronx,15700,14810000
+2007,1,New York City,Kings,26700,25770000
+2007,1,New York City,New York,16900,18520000
+2007,1,New York City,Queens,21000,21770000
+2007,1,New York City,Richmond,4800,4660000
+2007,2,New York City,Bronx,13300,11950000
+2007,2,New York City,Kings,22400,20740000
+2007,2,New York City,New York,14900,14730000
+2007,2,New York City,Queens,18300,17930000
+2007,2,New York City,Richmond,3700,3720000
+2007,3,New York City,Bronx,13700,12190000
+2007,3,New York City,Kings,22100,20770000
+2007,3,New York City,New York,14800,14760000
+2007,3,New York City,Queens,18100,17960000
+2007,3,New York City,Richmond,3600,3700000
+2007,4,New York City,Bronx,14300,12710000
+2007,4,New York City,Kings,24700,22100000
+2007,4,New York City,New York,15100,15560000
+2007,4,New York City,Queens,18800,18200000
+2007,4,New York City,Richmond,4300,3970000
+2007,5,New York City,Bronx,11900,11140000
+2007,5,New York City,Kings,20200,19890000
+2007,5,New York City,New York,14200,15140000
+2007,5,New York City,Queens,16000,16880000
+2007,5,New York City,Richmond,3100,3360000
+2007,6,New York City,Bronx,11700,10560000
+2007,6,New York City,Kings,19400,18290000
+2007,6,New York City,New York,14000,14050000
+2007,6,New York City,Queens,15400,15360000
+2007,6,New York City,Richmond,3000,3060000
+2007,7,New York City,Bronx,14200,14390000
+2007,7,New York City,Kings,24300,25470000
+2007,7,New York City,New York,15700,17580000
+2007,7,New York City,Queens,18200,20320000
+2007,7,New York City,Richmond,4400,4850000
+2007,8,New York City,Bronx,14300,13270000
+2007,8,New York City,Kings,24600,24000000
+2007,8,New York City,New York,15400,16240000
+2007,8,New York City,Queens,18400,18670000
+2007,8,New York City,Richmond,4500,4690000
+2007,9,New York City,Bronx,14100,11290000
+2007,9,New York City,Kings,24200,19740000
+2007,9,New York City,New York,15100,14450000
+2007,9,New York City,Queens,18000,16170000
+2007,9,New York City,Richmond,4300,3520000
+2007,10,New York City,Bronx,12200,12630000
+2007,10,New York City,Kings,20100,21370000
+2007,10,New York City,New York,14200,16100000
+2007,10,New York City,Queens,16000,18220000
+2007,10,New York City,Richmond,3200,3730000
+2007,11,New York City,Bronx,12000,10820000
+2007,11,New York City,Kings,19700,18480000
+2007,11,New York City,New York,13700,13620000
+2007,11,New York City,Queens,15800,15620000
+2007,11,New York City,Richmond,3200,3210000
+2007,12,New York City,Bronx,13500,13140000
+2007,12,New York City,Kings,22800,22340000
+2007,12,New York City,New York,14600,15600000
+2007,12,New York City,Queens,18000,18830000
+2007,12,New York City,Richmond,4200,4110000
+2008,1,New York City,Bronx,15100,13460000
+2008,1,New York City,Kings,25400,23820000
+2008,1,New York City,New York,16600,17350000
+2008,1,New York City,Queens,20500,20480000
+2008,1,New York City,Richmond,4300,4170000
+2008,2,New York City,Bronx,14000,12630000
+2008,2,New York City,Kings,23400,21760000
+2008,2,New York City,New York,16000,16360000
+2008,2,New York City,Queens,19400,19050000
+2008,2,New York City,Richmond,4100,3990000
+2008,3,New York City,Bronx,14500,14400000
+2008,3,New York City,Kings,23600,24200000
+2008,3,New York City,New York,16400,18010000
+2008,3,New York City,Queens,19700,20920000
+2008,3,New York City,Richmond,4100,4500000
+2008,4,New York City,Bronx,14700,13400000
+2008,4,New York City,Kings,24800,23240000
+2008,4,New York City,New York,16400,17660000
+2008,4,New York City,Queens,19800,19740000
+2008,4,New York City,Richmond,4500,4310000
+2008,5,New York City,Bronx,14000,12580000
+2008,5,New York City,Kings,22800,21200000
+2008,5,New York City,New York,16100,16680000
+2008,5,New York City,Queens,18600,18370000
+2008,5,New York City,Richmond,3800,3890000
+2008,6,New York City,Bronx,13800,14290000
+2008,6,New York City,Kings,22800,24170000
+2008,6,New York City,New York,16900,19110000
+2008,6,New York City,Queens,18600,20470000
+2008,6,New York City,Richmond,4000,4470000
+2008,7,New York City,Bronx,16200,15520000
+2008,7,New York City,Kings,27800,28270000
+2008,7,New York City,New York,18600,20770000
+2008,7,New York City,Queens,21500,22690000
+2008,7,New York City,Richmond,5300,5680000
+2008,8,New York City,Bronx,16600,15420000
+2008,8,New York City,Kings,28200,27620000
+2008,8,New York City,New York,19300,20330000
+2008,8,New York City,Queens,21500,21760000
+2008,8,New York City,Richmond,5300,5460000
+2008,9,New York City,Bronx,17600,17100000
+2008,9,New York City,Kings,29900,30120000
+2008,9,New York City,New York,20300,23630000
+2008,9,New York City,Queens,22800,24550000
+2008,9,New York City,Richmond,5500,5490000
+2008,10,New York City,Bronx,15600,14460000
+2008,10,New York City,Kings,26100,25760000
+2008,10,New York City,New York,19300,20720000
+2008,10,New York City,Queens,20800,21370000
+2008,10,New York City,Richmond,4400,4530000
+2008,11,New York City,Bronx,16500,14970000
+2008,11,New York City,Kings,27300,26290000
+2008,11,New York City,New York,20300,21150000
+2008,11,New York City,Queens,22400,22460000
+2008,11,New York City,Richmond,4500,4670000
+2008,12,New York City,Bronx,20000,21870000
+2008,12,New York City,Kings,33800,39060000
+2008,12,New York City,New York,24800,31320000
+2008,12,New York City,Queens,28200,34060000
+2008,12,New York City,Richmond,5800,6980000
+2009,1,New York City,Bronx,24100,21620000
+2009,1,New York City,Kings,41500,39020000
+2009,1,New York City,New York,29200,31710000
+2009,1,New York City,Queens,34400,34250000
+2009,1,New York City,Richmond,7500,7030000
+2009,2,New York City,Bronx,24400,23100000
+2009,2,New York City,Kings,42000,41820000
+2009,2,New York City,New York,31500,34800000
+2009,2,New York City,Queens,36500,37930000
+2009,2,New York City,Richmond,7000,7340000
+2009,3,New York City,Bronx,26200,29920000
+2009,3,New York City,Kings,46100,55120000
+2009,3,New York City,New York,34900,45670000
+2009,3,New York City,Queens,41200,50760000
+2009,3,New York City,Richmond,7600,9450000
+2009,4,New York City,Bronx,27200,25670000
+2009,4,New York City,Kings,49800,50180000
+2009,4,New York City,New York,36100,42020000
+2009,4,New York City,Queens,42800,45360000
+2009,4,New York City,Richmond,8600,8530000
+2009,5,New York City,Bronx,25700,24570000
+2009,5,New York City,Kings,46800,47910000
+2009,5,New York City,New York,36100,40860000
+2009,5,New York City,Queens,40900,43180000
+2009,5,New York City,Richmond,7400,7970000
+2009,6,New York City,Bronx,26300,29840000
+2009,6,New York City,Kings,48000,56810000
+2009,6,New York City,New York,36800,47940000
+2009,6,New York City,Queens,41000,50550000
+2009,6,New York City,Richmond,7700,9600000
+2009,7,New York City,Bronx,27900,26740000
+2009,7,New York City,Kings,50700,52170000
+2009,7,New York City,New York,36800,42430000
+2009,7,New York City,Queens,41600,44230000
+2009,7,New York City,Richmond,8600,9230000
+2009,8,New York City,Bronx,27400,29460000
+2009,8,New York City,Kings,49300,55290000
+2009,8,New York City,New York,35500,42390000
+2009,8,New York City,Queens,40200,46130000
+2009,8,New York City,Richmond,8400,9850000
+2009,9,New York City,Bronx,26100,24170000
+2009,9,New York City,Kings,46800,46360000
+2009,9,New York City,New York,32600,37110000
+2009,9,New York City,Queens,37900,39150000
+2009,9,New York City,Richmond,7900,7880000
+2009,10,New York City,Bronx,22500,21200000
+2009,10,New York City,Kings,39500,39360000
+2009,10,New York City,New York,28500,30830000
+2009,10,New York City,Queens,32400,33410000
+2009,10,New York City,Richmond,6200,6470000
+2009,11,New York City,Bronx,22900,23750000
+2009,11,New York City,Kings,38800,42100000
+2009,11,New York City,New York,27100,30990000
+2009,11,New York City,Queens,31800,35870000
+2009,11,New York City,Richmond,6200,7150000
+2009,12,New York City,Bronx,23400,22910000
+2009,12,New York City,Kings,39300,41190000
+2009,12,New York City,New York,26700,30340000
+2009,12,New York City,Queens,32700,35490000
+2009,12,New York City,Richmond,6500,7140000
+2010,1,New York City,Bronx,26200,22660000
+2010,1,New York City,Kings,44000,40110000
+2010,1,New York City,New York,27900,28090000
+2010,1,New York City,Queens,36300,34630000
+2010,1,New York City,Richmond,8000,7200000
+2010,2,New York City,Bronx,23900,22020000
+2010,2,New York City,Kings,39700,38400000
+2010,2,New York City,New York,26000,27020000
+2010,2,New York City,Queens,33700,33840000
+2010,2,New York City,Richmond,6900,7030000
+2010,3,New York City,Bronx,23700,26100000
+2010,3,New York City,Kings,39500,44950000
+2010,3,New York City,New York,25800,31350000
+2010,3,New York City,Queens,34000,40410000
+2010,3,New York City,Richmond,6800,8290000
+2010,4,New York City,Bronx,24000,20730000
+2010,4,New York City,Kings,40700,37060000
+2010,4,New York City,New York,24600,25250000
+2010,4,New York City,Queens,33600,32110000
+2010,4,New York City,Richmond,7300,6680000
+2010,5,New York City,Bronx,20600,18650000
+2010,5,New York City,Kings,34600,33420000
+2010,5,New York City,New York,22800,23190000
+2010,5,New York City,Queens,29100,29120000
+2010,5,New York City,Richmond,5900,6050000
+2010,6,New York City,Bronx,21300,23060000
+2010,6,New York City,Kings,35600,40890000
+2010,6,New York City,New York,23700,28490000
+2010,6,New York City,Queens,29600,35160000
+2010,6,New York City,Richmond,6100,7410000
+2010,7,New York City,Bronx,23900,21390000
+2010,7,New York City,Kings,39900,38170000
+2010,7,New York City,New York,24600,25120000
+2010,7,New York City,Queens,31600,31250000
+2010,7,New York City,Richmond,7500,7470000
+2010,8,New York City,Bronx,24400,26480000
+2010,8,New York City,Kings,40800,46380000
+2010,8,New York City,New York,25100,29780000
+2010,8,New York City,Queens,32100,37340000
+2010,8,New York City,Richmond,7700,9260000
+2010,9,New York City,Bronx,23800,20750000
+2010,9,New York City,Kings,39900,36570000
+2010,9,New York City,New York,23900,24550000
+2010,9,New York City,Queens,31100,29810000
+2010,9,New York City,Richmond,7400,6840000
+2010,10,New York City,Bronx,21100,19060000
+2010,10,New York City,Kings,34800,33080000
+2010,10,New York City,New York,22100,22300000
+2010,10,New York City,Queens,27700,27250000
+2010,10,New York City,Richmond,6000,6040000
+2010,11,New York City,Bronx,21800,23080000
+2010,11,New York City,Kings,35500,39250000
+2010,11,New York City,New York,22200,25730000
+2010,11,New York City,Queens,28400,32500000
+2010,11,New York City,Richmond,6100,7140000
+2010,12,New York City,Bronx,21600,20150000
+2010,12,New York City,Kings,34700,34040000
+2010,12,New York City,New York,21700,22570000
+2010,12,New York City,Queens,28000,28580000
+2010,12,New York City,Richmond,6100,6220000
+2011,1,New York City,Bronx,25500,24310000
+2011,1,New York City,Kings,41300,40440000
+2011,1,New York City,New York,24300,25850000
+2011,1,New York City,Queens,33400,34520000
+2011,1,New York City,Richmond,7900,7800000
+2011,2,New York City,Bronx,22200,20340000
+2011,2,New York City,Kings,35800,34340000
+2011,2,New York City,New York,22200,22330000
+2011,2,New York City,Queens,29900,30040000
+2011,2,New York City,Richmond,6300,6470000
+2011,3,New York City,Bronx,22000,21400000
+2011,3,New York City,Kings,35600,36610000
+2011,3,New York City,New York,21800,23840000
+2011,3,New York City,Queens,29700,31690000
+2011,3,New York City,Richmond,6200,6690000
+2011,4,New York City,Bronx,22300,18700000
+2011,4,New York City,Kings,36900,32420000
+2011,4,New York City,New York,21200,20230000
+2011,4,New York City,Queens,29400,27230000
+2011,4,New York City,Richmond,6700,5980000
+2011,5,New York City,Bronx,20600,20770000
+2011,5,New York City,Kings,34100,35630000
+2011,5,New York City,New York,20800,23060000
+2011,5,New York City,Queens,27600,30220000
+2011,5,New York City,Richmond,5900,6450000
+2011,6,New York City,Bronx,19400,17890000
+2011,6,New York City,Kings,31500,31370000
+2011,6,New York City,New York,20400,21410000
+2011,6,New York City,Queens,25400,26590000
+2011,6,New York City,Richmond,5400,5650000
+2011,7,New York City,Bronx,22500,19290000
+2011,7,New York City,Kings,37000,33810000
+2011,7,New York City,New York,21900,21540000
+2011,7,New York City,Queens,28400,27080000
+2011,7,New York City,Richmond,6700,6270000
+2011,8,New York City,Bronx,23000,24260000
+2011,8,New York City,Kings,37800,42360000
+2011,8,New York City,New York,22400,26140000
+2011,8,New York City,Queens,28900,33230000
+2011,8,New York City,Richmond,6800,7910000
+2011,9,New York City,Bronx,22100,18360000
+2011,9,New York City,Kings,36700,32110000
+2011,9,New York City,New York,21600,21220000
+2011,9,New York City,Queens,27900,25960000
+2011,9,New York City,Richmond,6500,5570000
+2011,10,New York City,Bronx,20100,19500000
+2011,10,New York City,Kings,32500,32860000
+2011,10,New York City,New York,20600,22080000
+2011,10,New York City,Queens,25600,27100000
+2011,10,New York City,Richmond,5300,5540000
+2011,11,New York City,Bronx,20000,18720000
+2011,11,New York City,Kings,31900,32190000
+2011,11,New York City,New York,20400,22030000
+2011,11,New York City,Queens,25400,26740000
+2011,11,New York City,Richmond,5200,5480000
+2011,12,New York City,Bronx,20300,18420000
+2011,12,New York City,Kings,32000,30960000
+2011,12,New York City,New York,20500,21200000
+2011,12,New York City,Queens,25700,25970000
+2011,12,New York City,Richmond,5300,5410000
+2012,1,New York City,Bronx,24500,23740000
+2012,1,New York City,Kings,39100,39350000
+2012,1,New York City,New York,23600,26500000
+2012,1,New York City,Queens,31200,33290000
+2012,1,New York City,Richmond,7100,7050000
+2012,2,New York City,Bronx,22000,20190000
+2012,2,New York City,Kings,34400,33030000
+2012,2,New York City,New York,22000,22650000
+2012,2,New York City,Queens,28500,28750000
+2012,2,New York City,Richmond,5700,5800000
+2012,3,New York City,Bronx,21600,20070000
+2012,3,New York City,Kings,33300,32800000
+2012,3,New York City,New York,21700,22760000
+2012,3,New York City,Queens,27900,28260000
+2012,3,New York City,Richmond,5500,5790000
+2012,4,New York City,Bronx,22800,21080000
+2012,4,New York City,Kings,36700,35370000
+2012,4,New York City,New York,22100,23570000
+2012,4,New York City,Queens,29300,29770000
+2012,4,New York City,Richmond,6700,6340000
+2012,5,New York City,Bronx,19100,18130000
+2012,5,New York City,Kings,31100,31980000
+2012,5,New York City,New York,20700,23030000
+2012,5,New York City,Queens,25500,27540000
+2012,5,New York City,Richmond,5300,5580000
+2012,6,New York City,Bronx,19200,17190000
+2012,6,New York City,Kings,30600,29420000
+2012,6,New York City,New York,20900,21590000
+2012,6,New York City,Queens,25000,25110000
+2012,6,New York City,Richmond,5300,5240000
+2012,7,New York City,Bronx,23300,23480000
+2012,7,New York City,Kings,37400,39730000
+2012,7,New York City,New York,23000,26240000
+2012,7,New York City,Queens,29800,32760000
+2012,7,New York City,Richmond,7100,7810000
+2012,8,New York City,Bronx,22000,19920000
+2012,8,New York City,Kings,35300,35170000
+2012,8,New York City,New York,21900,23090000
+2012,8,New York City,Queens,27600,27980000
+2012,8,New York City,Richmond,6600,6700000
+2012,9,New York City,Bronx,21400,17520000
+2012,9,New York City,Kings,34600,30100000
+2012,9,New York City,New York,21100,20700000
+2012,9,New York City,Queens,26900,24480000
+2012,9,New York City,Richmond,6300,5440000
+2012,10,New York City,Bronx,19500,20090000
+2012,10,New York City,Kings,30900,33470000
+2012,10,New York City,New York,20300,23470000
+2012,10,New York City,Queens,24600,27860000
+2012,10,New York City,Richmond,5200,5730000
+2012,11,New York City,Bronx,21300,18270000
+2012,11,New York City,Kings,35600,32300000
+2012,11,New York City,New York,21100,21350000
+2012,11,New York City,Queens,28500,26470000
+2012,11,New York City,Richmond,6300,5730000
+2012,12,New York City,Bronx,21000,20080000
+2012,12,New York City,Kings,34700,34820000
+2012,12,New York City,New York,20200,21920000
+2012,12,New York City,Queens,27400,28640000
+2012,12,New York City,Richmond,6200,5980000
+2013,1,New York City,Bronx,21900,19490000
+2013,1,New York City,Kings,36000,34670000
+2013,1,New York City,New York,21800,23110000
+2013,1,New York City,Queens,28900,29190000
+2013,1,New York City,Richmond,6100,5880000
+2013,2,New York City,Bronx,19900,17900000
+2013,2,New York City,Kings,32500,31160000
+2013,2,New York City,New York,20200,20580000
+2013,2,New York City,Queens,26600,26440000
+2013,2,New York City,Richmond,5300,5160000
+2013,3,New York City,Bronx,19300,17830000
+2013,3,New York City,Kings,31700,30910000
+2013,3,New York City,New York,19900,20640000
+2013,3,New York City,Queens,26000,26070000
+2013,3,New York City,Richmond,5100,5080000
+2013,4,New York City,Bronx,21300,20050000
+2013,4,New York City,Kings,35900,35670000
+2013,4,New York City,New York,20600,22940000
+2013,4,New York City,Queens,27900,29370000
+2013,4,New York City,Richmond,6100,6010000
+2013,5,New York City,Bronx,17600,16020000
+2013,5,New York City,Kings,29600,28790000
+2013,5,New York City,New York,18900,19780000
+2013,5,New York City,Queens,23600,23680000
+2013,5,New York City,Richmond,4600,4600000
+2013,6,New York City,Bronx,17500,15450000
+2013,6,New York City,Kings,28700,27370000
+2013,6,New York City,New York,18800,19080000
+2013,6,New York City,Queens,22800,22490000
+2013,6,New York City,Richmond,4600,4430000
+2013,7,New York City,Bronx,20700,21010000
+2013,7,New York City,Kings,34700,37700000
+2013,7,New York City,New York,20700,24150000
+2013,7,New York City,Queens,26000,29030000
+2013,7,New York City,Richmond,5900,6490000
+2013,8,New York City,Bronx,20100,18340000
+2013,8,New York City,Kings,33200,32600000
+2013,8,New York City,New York,19800,20800000
+2013,8,New York City,Queens,24800,24740000
+2013,8,New York City,Richmond,5600,5750000
+2013,9,New York City,Bronx,20500,19310000
+2013,9,New York City,Kings,33800,33510000
+2013,9,New York City,New York,19500,20970000
+2013,9,New York City,Queens,25400,26110000
+2013,9,New York City,Richmond,5800,5630000
+2013,10,New York City,Bronx,17500,16510000
+2013,10,New York City,Kings,28600,28980000
+2013,10,New York City,New York,17700,19350000
+2013,10,New York City,Queens,22000,23550000
+2013,10,New York City,Richmond,4400,4670000
+2013,11,New York City,Bronx,17100,15430000
+2013,11,New York City,Kings,27100,26120000
+2013,11,New York City,New York,16800,17070000
+2013,11,New York City,Queens,21100,21300000
+2013,11,New York City,Richmond,4300,4300000
+2013,12,New York City,Bronx,19900,19930000
+2013,12,New York City,Kings,31000,33140000
+2013,12,New York City,New York,17800,20600000
+2013,12,New York City,Queens,24600,27400000
+2013,12,New York City,Richmond,5600,5730000
+2014,1,New York City,Bronx,20200,17460000
+2014,1,New York City,Kings,31800,29720000
+2014,1,New York City,New York,18800,19020000
+2014,1,New York City,Queens,26000,25250000
+2014,1,New York City,Richmond,5600,5200000
+2014,2,New York City,Bronx,20000,17290000
+2014,2,New York City,Kings,31000,28170000
+2014,2,New York City,New York,17600,17470000
+2014,2,New York City,Queens,25600,24640000
+2014,2,New York City,Richmond,5700,5240000
+2014,3,New York City,Bronx,18400,18740000
+2014,3,New York City,Kings,28500,30050000
+2014,3,New York City,New York,17100,18740000
+2014,3,New York City,Queens,23900,26150000
+2014,3,New York City,Richmond,4900,5430000
+2014,4,New York City,Bronx,18400,16020000
+2014,4,New York City,Kings,29300,27000000
+2014,4,New York City,New York,16600,17040000
+2014,4,New York City,Queens,23400,22700000
+2014,4,New York City,Richmond,5200,4700000
+2014,5,New York City,Bronx,15800,13850000
+2014,5,New York City,Kings,25300,23700000
+2014,5,New York City,New York,15200,15270000
+2014,5,New York City,Queens,19900,19360000
+2014,5,New York City,Richmond,4100,3960000
+2014,6,New York City,Bronx,15500,15110000
+2014,6,New York City,Kings,24600,25110000
+2014,6,New York City,New York,15300,16500000
+2014,6,New York City,Queens,19400,20570000
+2014,6,New York City,Richmond,4100,4310000
+2014,7,New York City,Bronx,17600,16100000
+2014,7,New York City,Kings,27600,26890000
+2014,7,New York City,New York,15900,16720000
+2014,7,New York City,Queens,21000,21110000
+2014,7,New York City,Richmond,5100,5130000
+2014,8,New York City,Bronx,17500,15350000
+2014,8,New York City,Kings,27000,25570000
+2014,8,New York City,New York,15500,15530000
+2014,8,New York City,Queens,20400,19820000
+2014,8,New York City,Richmond,4900,4820000
+2014,9,New York City,Bronx,17700,16180000
+2014,9,New York City,Kings,27700,27140000
+2014,9,New York City,New York,15600,16820000
+2014,9,New York City,Queens,20900,21490000
+2014,9,New York City,Richmond,4900,4790000
+2014,10,New York City,Bronx,14700,13280000
+2014,10,New York City,Kings,22700,22160000
+2014,10,New York City,New York,13700,14190000
+2014,10,New York City,Queens,17700,17970000
+2014,10,New York City,Richmond,3800,3830000
+2014,11,New York City,Bronx,14400,12850000
+2014,11,New York City,Kings,21700,20540000
+2014,11,New York City,New York,13100,13240000
+2014,11,New York City,Queens,17200,17140000
+2014,11,New York City,Richmond,3700,3600000
+2014,12,New York City,Bronx,16100,16870000
+2014,12,New York City,Kings,24000,26370000
+2014,12,New York City,New York,14400,16960000
+2014,12,New York City,Queens,19700,22610000
+2014,12,New York City,Richmond,4300,4670000
+2015,1,New York City,Bronx,18200,15370000
+2015,1,New York City,Kings,26700,24180000
+2015,1,New York City,New York,15700,15480000
+2015,1,New York City,Queens,21900,20970000
+2015,1,New York City,Richmond,4900,4430000
+2015,2,New York City,Bronx,18000,15640000
+2015,2,New York City,Kings,25800,23930000
+2015,2,New York City,New York,15200,15220000
+2015,2,New York City,Queens,21800,21470000
+2015,2,New York City,Richmond,4800,4330000
+2015,3,New York City,Bronx,17200,18200000
+2015,3,New York City,Kings,24400,27310000
+2015,3,New York City,New York,15300,18050000
+2015,3,New York City,Queens,21100,24570000
+2015,3,New York City,Richmond,4200,4850000
+2015,4,New York City,Bronx,17300,14540000
+2015,4,New York City,Kings,25200,22760000
+2015,4,New York City,New York,14900,15160000
+2015,4,New York City,Queens,20400,19460000
+2015,4,New York City,Richmond,4500,3980000
+2015,5,New York City,Bronx,14200,12870000
+2015,5,New York City,Kings,21300,20660000
+2015,5,New York City,New York,13900,14200000
+2015,5,New York City,Queens,17000,17310000
+2015,5,New York City,Richmond,3400,3440000
+2015,6,New York City,Bronx,14700,15340000
+2015,6,New York City,Kings,21800,23900000
+2015,6,New York City,New York,14500,16950000
+2015,6,New York City,Queens,17100,19750000
+2015,6,New York City,Richmond,3500,3900000
+2015,7,New York City,Bronx,16800,14910000
+2015,7,New York City,Kings,25000,23820000
+2015,7,New York City,New York,15200,15670000
+2015,7,New York City,Queens,18700,18680000
+2015,7,New York City,Richmond,4300,4330000
+2015,8,New York City,Bronx,17100,17010000
+2015,8,New York City,Kings,24800,26230000
+2015,8,New York City,New York,15300,16900000
+2015,8,New York City,Queens,18700,20200000
+2015,8,New York City,Richmond,4300,4870000
+2015,9,New York City,Bronx,16600,14230000
+2015,9,New York City,Kings,24500,22610000
+2015,9,New York City,New York,14700,15350000
+2015,9,New York City,Queens,18300,17740000
+2015,9,New York City,Richmond,4300,3860000
+2015,10,New York City,Bronx,13600,12250000
+2015,10,New York City,Kings,19800,19100000
+2015,10,New York City,New York,13000,13240000
+2015,10,New York City,Queens,15400,15570000
+2015,10,New York City,Richmond,3100,3110000
+2015,11,New York City,Bronx,14000,14050000
+2015,11,New York City,Kings,19800,20950000
+2015,11,New York City,New York,13000,14430000
+2015,11,New York City,Queens,15700,17120000
+2015,11,New York City,Richmond,3200,3460000
+2015,12,New York City,Bronx,14600,14050000
+2015,12,New York City,Kings,21000,21510000
+2015,12,New York City,New York,13400,14890000
+2015,12,New York City,Queens,17000,18070000
+2015,12,New York City,Richmond,3700,3790000
+2016,1,New York City,Bronx,17500,14540000
+2016,1,New York City,Kings,24500,21900000
+2016,1,New York City,New York,14900,14790000
+2016,1,New York City,Queens,19700,18410000
+2016,1,New York City,Richmond,4700,4010000
+2016,2,New York City,Bronx,17500,16970000
+2016,2,New York City,Kings,24100,24410000
+2016,2,New York City,New York,14800,16540000
+2016,2,New York City,Queens,19500,20830000
+2016,2,New York City,Richmond,4400,4400000
+2016,3,New York City,Bronx,15400,15610000
+2016,3,New York City,Kings,21700,23600000
+2016,3,New York City,New York,14400,16530000
+2016,3,New York City,Queens,17700,19670000
+2016,3,New York City,Richmond,3500,3880000
+2016,4,New York City,Bronx,14200,12880000
+2016,4,New York City,Kings,20300,20260000
+2016,4,New York City,New York,13800,14320000
+2016,4,New York City,Queens,16400,16620000
+2016,4,New York City,Richmond,3200,3210000
+2016,5,New York City,Bronx,15700,15390000
+2016,5,New York City,Kings,23300,24130000
+2016,5,New York City,New York,14500,16560000
+2016,5,New York City,Queens,17700,19150000
+2016,5,New York City,Richmond,3900,3990000
+2016,6,New York City,Bronx,13500,13070000
+2016,6,New York City,Kings,20000,21130000
+2016,6,New York City,New York,13900,15490000
+2016,6,New York City,Queens,15300,16700000
+2016,6,New York City,Richmond,3200,3300000
+2016,7,New York City,Bronx,16200,14120000
+2016,7,New York City,Kings,23500,22450000
+2016,7,New York City,New York,14500,14880000
+2016,7,New York City,Queens,17300,17080000
+2016,7,New York City,Richmond,4000,3910000
+2016,8,New York City,Bronx,16700,18120000
+2016,8,New York City,Kings,24700,28850000
+2016,8,New York City,New York,15200,18720000
+2016,8,New York City,Queens,18000,21440000
+2016,8,New York City,Richmond,4200,5220000
+2016,9,New York City,Bronx,15800,13050000
+2016,9,New York City,Kings,23500,21230000
+2016,9,New York City,New York,14300,14750000
+2016,9,New York City,Queens,17100,16290000
+2016,9,New York City,Richmond,4000,3560000
+2016,10,New York City,Bronx,12800,12920000
+2016,10,New York City,Kings,19100,20510000
+2016,10,New York City,New York,13000,14940000
+2016,10,New York City,Queens,14700,16560000
+2016,10,New York City,Richmond,3000,3400000
+2016,11,New York City,Bronx,12700,12390000
+2016,11,New York City,Kings,18600,19990000
+2016,11,New York City,New York,12900,14900000
+2016,11,New York City,Queens,14700,16390000
+2016,11,New York City,Richmond,3000,3390000
+2016,12,New York City,Bronx,13100,12350000
+2016,12,New York City,Kings,19000,19670000
+2016,12,New York City,New York,13000,14260000
+2016,12,New York City,Queens,15100,15970000
+2016,12,New York City,Richmond,3200,3410000
+2017,1,New York City,Bronx,16700,16480000
+2017,1,New York City,Kings,24200,25690000
+2017,1,New York City,New York,15300,17900000
+2017,1,New York City,Queens,19400,21540000
+2017,1,New York City,Richmond,4400,4650000
+2017,2,New York City,Bronx,15300,13990000
+2017,2,New York City,Kings,21900,21720000
+2017,2,New York City,New York,13900,15110000
+2017,2,New York City,Queens,17600,18160000
+2017,2,New York City,Richmond,4000,3900000
+2017,3,New York City,Bronx,14600,14250000
+2017,3,New York City,Kings,21000,22390000
+2017,3,New York City,New York,14000,15800000
+2017,3,New York City,Queens,17100,18610000
+2017,3,New York City,Richmond,3600,3830000
+2017,4,New York City,Bronx,15800,13480000
+2017,4,New York City,Kings,23000,21290000
+2017,4,New York City,New York,14100,14550000
+2017,4,New York City,Queens,17900,17040000
+2017,4,New York City,Richmond,4100,3620000
+2017,5,New York City,Bronx,13300,14610000
+2017,5,New York City,Kings,20400,24150000
+2017,5,New York City,New York,13900,17450000
+2017,5,New York City,Queens,16000,19100000
+2017,5,New York City,Richmond,3300,3870000
+2017,6,New York City,Bronx,13200,13040000
+2017,6,New York City,Kings,19700,21130000
+2017,6,New York City,New York,13700,15520000
+2017,6,New York City,Queens,15600,17200000
+2017,6,New York City,Richmond,3200,3460000
+2017,7,New York City,Bronx,16200,16710000
+2017,7,New York City,Kings,23500,25670000
+2017,7,New York City,New York,14600,16880000
+2017,7,New York City,Queens,17500,19910000
+2017,7,New York City,Richmond,4200,4680000
+2017,8,New York City,Bronx,16200,16690000
+2017,8,New York City,Kings,23800,26320000
+2017,8,New York City,New York,14400,16980000
+2017,8,New York City,Queens,17700,20130000
+2017,8,New York City,Richmond,4200,4680000
+2017,9,New York City,Bronx,16000,13740000
+2017,9,New York City,Kings,23400,21740000
+2017,9,New York City,New York,14100,14470000
+2017,9,New York City,Queens,17400,17020000
+2017,9,New York City,Richmond,4100,3640000
+2017,10,New York City,Bronx,12900,14560000
+2017,10,New York City,Kings,19400,23050000
+2017,10,New York City,New York,13000,16140000
+2017,10,New York City,Queens,15100,18720000
+2017,10,New York City,Richmond,3100,3720000
+2017,11,New York City,Bronx,13100,13080000
+2017,11,New York City,Kings,18600,19770000
+2017,11,New York City,New York,12500,14080000
+2017,11,New York City,Queens,14700,16100000
+2017,11,New York City,Richmond,2900,3130000
+2017,12,New York City,Bronx,13400,12970000
+2017,12,New York City,Kings,18700,19350000
+2017,12,New York City,New York,12400,13460000
+2017,12,New York City,Queens,14700,15590000
+2017,12,New York City,Richmond,3000,3050000
+2018,1,New York City,Bronx,17200,17780000
+2018,1,New York City,Kings,24300,26430000
+2018,1,New York City,New York,14700,17660000
+2018,1,New York City,Queens,19400,22050000
+2018,1,New York City,Richmond,4400,4610000
+2018,2,New York City,Bronx,15800,14560000
+2018,2,New York City,Kings,21800,21570000
+2018,2,New York City,New York,13300,14430000
+2018,2,New York City,Queens,17300,17640000
+2018,2,New York City,Richmond,3700,3600000
+2018,3,New York City,Bronx,14000,13980000
+2018,3,New York City,Kings,19500,20970000
+2018,3,New York City,New York,13100,14710000
+2018,3,New York City,Queens,15700,17270000
+2018,3,New York City,Richmond,3100,3360000
+2018,4,New York City,Bronx,15300,14520000
+2018,4,New York City,Kings,21900,22620000
+2018,4,New York City,New York,13500,15400000
+2018,4,New York City,Queens,16800,17920000
+2018,4,New York City,Richmond,3700,3590000
+2018,5,New York City,Bronx,12000,12510000
+2018,5,New York City,Kings,18200,20660000
+2018,5,New York City,New York,12500,15060000
+2018,5,New York City,Queens,13900,16180000
+2018,5,New York City,Richmond,2700,3070000
+2018,6,New York City,Bronx,12000,11670000
+2018,6,New York City,Kings,17800,18620000
+2018,6,New York City,New York,12300,13500000
+2018,6,New York City,Queens,13300,14550000
+2018,6,New York City,Richmond,2700,2870000
+2018,7,New York City,Bronx,15100,16120000
+2018,7,New York City,Kings,21700,24870000
+2018,7,New York City,New York,13500,16380000
+2018,7,New York City,Queens,16000,18840000
+2018,7,New York City,Richmond,3700,4370000
+2018,8,New York City,Bronx,15000,14720000
+2018,8,New York City,Kings,21200,22680000
+2018,8,New York City,New York,13200,14860000
+2018,8,New York City,Queens,15500,16910000
+2018,8,New York City,Richmond,3700,3970000
+2018,9,New York City,Bronx,14300,11970000
+2018,9,New York City,Kings,20700,18980000
+2018,9,New York City,New York,12600,12950000
+2018,9,New York City,Queens,15200,14550000
+2018,9,New York City,Richmond,3600,3200000
+2018,10,New York City,Bronx,11600,13150000
+2018,10,New York City,Kings,17100,20730000
+2018,10,New York City,New York,11700,14810000
+2018,10,New York City,Queens,13000,16380000
+2018,10,New York City,Richmond,2600,3300000
+2018,11,New York City,Bronx,11600,11530000
+2018,11,New York City,Kings,16600,17780000
+2018,11,New York City,New York,11200,12630000
+2018,11,New York City,Queens,12800,14170000
+2018,11,New York City,Richmond,2600,2730000
+2018,12,New York City,Bronx,13300,14140000
+2018,12,New York City,Kings,18700,20950000
+2018,12,New York City,New York,11800,14090000
+2018,12,New York City,Queens,14400,16490000
+2018,12,New York City,Richmond,3200,3470000
+2019,1,New York City,Bronx,14600,14470000
+2019,1,New York City,Kings,21100,23020000
+2019,1,New York City,New York,13200,15440000
+2019,1,New York City,Queens,16400,18390000
+2019,1,New York City,Richmond,3500,3810000
+2019,2,New York City,Bronx,14400,13730000
+2019,2,New York City,Kings,20800,21360000
+2019,2,New York City,New York,12400,13710000
+2019,2,New York City,Queens,15900,16770000
+2019,2,New York City,Richmond,3500,3560000
+2019,3,New York City,Bronx,12800,13210000
+2019,3,New York City,Kings,18600,20700000
+2019,3,New York City,New York,11800,13490000
+2019,3,New York City,Queens,14500,16210000
+2019,3,New York City,Richmond,2800,3250000
+2019,4,New York City,Bronx,13700,14630000
+2019,4,New York City,Kings,20100,23220000
+2019,4,New York City,New York,12300,15470000
+2019,4,New York City,Queens,15200,17920000
+2019,4,New York City,Richmond,3300,3610000
+2019,5,New York City,Bronx,11600,12030000
+2019,5,New York City,Kings,17700,19790000
+2019,5,New York City,New York,11600,13710000
+2019,5,New York City,Queens,13200,15160000
+2019,5,New York City,Richmond,2600,2970000
+2019,6,New York City,Bronx,11500,11700000
+2019,6,New York City,Kings,17300,19070000
+2019,6,New York City,New York,11700,13210000
+2019,6,New York City,Queens,12900,14590000
+2019,6,New York City,Richmond,2600,2760000
+2019,7,New York City,Bronx,14500,16920000
+2019,7,New York City,Kings,21100,26130000
+2019,7,New York City,New York,13100,16890000
+2019,7,New York City,Queens,15100,19500000
+2019,7,New York City,Richmond,3500,4340000
+2019,8,New York City,Bronx,14900,15390000
+2019,8,New York City,Kings,21000,22990000
+2019,8,New York City,New York,12700,14820000
+2019,8,New York City,Queens,15000,17090000
+2019,8,New York City,Richmond,3500,3960000
+2019,9,New York City,Bronx,14700,14680000
+2019,9,New York City,Kings,20900,22320000
+2019,9,New York City,New York,12600,14750000
+2019,9,New York City,Queens,15200,16930000
+2019,9,New York City,Richmond,3400,3420000
+2019,10,New York City,Bronx,11600,13140000
+2019,10,New York City,Kings,17000,20830000
+2019,10,New York City,New York,11400,14850000
+2019,10,New York City,Queens,12700,16210000
+2019,10,New York City,Richmond,2500,3060000
+2019,11,New York City,Bronx,11700,12870000
+2019,11,New York City,Kings,16600,19740000
+2019,11,New York City,New York,11200,13830000
+2019,11,New York City,Queens,12600,15460000
+2019,11,New York City,Richmond,2500,3020000
+2019,12,New York City,Bronx,14700,17450000
+2019,12,New York City,Kings,20500,26050000
+2019,12,New York City,New York,12600,17260000
+2019,12,New York City,Queens,15700,20300000
+2019,12,New York City,Richmond,3700,4370000
+2020,1,New York City,Bronx,15100,16030000
+2020,1,New York City,Kings,21300,24590000
+2020,1,New York City,New York,13300,16500000
+2020,1,New York City,Queens,16700,19530000
+2020,1,New York City,Richmond,3700,4140000
+2020,2,New York City,Bronx,15200,15960000
+2020,2,New York City,Kings,21300,23990000
+2020,2,New York City,New York,12900,15800000
+2020,2,New York City,Queens,16300,19010000
+2020,2,New York City,Richmond,3700,4100000
+2020,3,New York City,Bronx,27400,25930000
+2020,3,New York City,Kings,46400,43300000
+2020,3,New York City,New York,29100,28840000
+2020,3,New York City,Queens,41000,36880000
+2020,3,New York City,Richmond,7600,6820000
+2020,4,New York City,Bronx,94900,119660000
+2020,4,New York City,Kings,165800,219030000
+2020,4,New York City,New York,86000,123110000
+2020,4,New York City,Queens,185700,242550000
+2020,4,New York City,Richmond,29000,37660000
+2020,5,New York City,Bronx,129000,176810000
+2020,5,New York City,Kings,221100,317570000
+2020,5,New York City,New York,113900,174370000
+2020,5,New York City,Queens,238100,340980000
+2020,5,New York City,Richmond,36300,49810000
+2020,6,New York City,Bronx,145400,249000000
+2020,6,New York City,Kings,237800,413740000
+2020,6,New York City,New York,124900,230900000
+2020,6,New York City,Queens,250300,429660000
+2020,6,New York City,Richmond,36900,59760000
+2020,7,New York City,Bronx,150000,201140000
+2020,7,New York City,Kings,238800,332780000
+2020,7,New York City,New York,125200,187400000
+2020,7,New York City,Queens,239000,326090000
+2020,7,New York City,Richmond,34700,45040000
+2020,8,New York City,Bronx,140200,193790000
+2020,8,New York City,Kings,217500,302620000
+2020,8,New York City,New York,114600,170940000
+2020,8,New York City,Queens,218800,300300000
+2020,8,New York City,Richmond,31300,41630000
+2020,9,New York City,Bronx,136000,157620000
+2020,9,New York City,Kings,202900,245560000
+2020,9,New York City,New York,107100,137930000
+2020,9,New York City,Queens,201400,240280000
+2020,9,New York City,Richmond,28900,32890000
+2020,10,New York City,Bronx,79600,82290000
+2020,10,New York City,Kings,116800,123280000
+2020,10,New York City,New York,60900,68970000
+2020,10,New York City,Queens,112400,108530000
+2020,10,New York City,Richmond,16100,16050000
+2020,11,New York City,Bronx,53400,61690000
+2020,11,New York City,Kings,76900,91760000
+2020,11,New York City,New York,40100,50760000
+2020,11,New York City,Queens,71100,79120000
+2020,11,New York City,Richmond,10900,12550000
+2020,12,New York City,Bronx,47000,50100000
+2020,12,New York City,Kings,67200,77550000
+2020,12,New York City,New York,34500,42760000
+2020,12,New York City,Queens,62500,69580000
+2020,12,New York City,Richmond,10400,11260000
+2021,1,New York City,Bronx,47200,48720000
+2021,1,New York City,Kings,68500,74710000
+2021,1,New York City,New York,33400,38560000
+2021,1,New York City,Queens,64400,67630000
+2021,1,New York City,Richmond,10800,11110000
+2021,2,New York City,Bronx,44400,46130000
+2021,2,New York City,Kings,63200,69740000
+2021,2,New York City,New York,29900,35830000
+2021,2,New York City,Queens,60400,62800000
+2021,2,New York City,Richmond,10300,10930000
+2021,3,New York City,Bronx,44300,53250000
+2021,3,New York City,Kings,62400,78190000
+2021,3,New York City,New York,30300,40620000
+2021,3,New York City,Queens,59800,69330000
+2021,3,New York City,Richmond,9900,11840000
+2021,4,New York City,Bronx,47900,49420000
+2021,4,New York City,Kings,65100,70860000
+2021,4,New York City,New York,33300,38000000
+2021,4,New York City,Queens,61900,64140000
+2021,4,New York City,Richmond,11000,11020000
+2021,5,New York City,Bronx,39300,45810000
+2021,5,New York City,Kings,53000,63390000
+2021,5,New York City,New York,26500,33650000
+2021,5,New York City,Queens,51900,59270000
+2021,5,New York City,Richmond,8100,9640000
+2021,6,New York City,Bronx,39600,51650000
+2021,6,New York City,Kings,53200,71570000
+2021,6,New York City,New York,26200,38090000
+2021,6,New York City,Queens,51600,66840000
+2021,6,New York City,Richmond,8100,10800000
+2021,7,New York City,Bronx,33900,37040000
+2021,7,New York City,Kings,45600,52470000
+2021,7,New York City,New York,21400,26390000
+2021,7,New York City,Queens,43100,46720000
+2021,7,New York City,Richmond,7500,8540000
+2021,8,New York City,Bronx,32200,41870000
+2021,8,New York City,Kings,43100,58190000
+2021,8,New York City,New York,19900,28730000
+2021,8,New York City,Queens,40600,51380000
+2021,8,New York City,Richmond,7300,10060000
+2021,9,New York City,Bronx,31200,30070000
+2021,9,New York City,Kings,41700,42230000
+2021,9,New York City,New York,19300,21330000
+2021,9,New York City,Queens,38900,36750000
+2021,9,New York City,Richmond,7100,7330000
+2021,10,New York City,Bronx,21000,22420000
+2021,10,New York City,Kings,28300,31610000
+2021,10,New York City,New York,13700,16330000
+2021,10,New York City,Queens,24900,26810000
+2021,10,New York City,Richmond,4600,5370000
+2021,11,New York City,Bronx,18200,22970000
+2021,11,New York City,Kings,24300,31700000
+2021,11,New York City,New York,12000,16280000
+2021,11,New York City,Queens,21500,26860000
+2021,11,New York City,Richmond,4200,5560000
+2021,12,New York City,Bronx,16600,19470000
+2021,12,New York City,Kings,22500,27220000
+2021,12,New York City,New York,11200,14380000
+2021,12,New York City,Queens,19500,22580000
+2021,12,New York City,Richmond,4000,4730000
+2022,1,New York City,Bronx,17900,21410000
+2022,1,New York City,Kings,25000,31260000
+2022,1,New York City,New York,12000,16060000
+2022,1,New York City,Queens,21400,26130000
+2022,1,New York City,Richmond,4800,5940000
+2022,2,New York City,Bronx,15600,17830000
+2022,2,New York City,Kings,21600,25400000
+2022,2,New York City,New York,10400,13180000
+2022,2,New York City,Queens,18700,21870000
+2022,2,New York City,Richmond,4100,4720000
+2022,3,New York City,Bronx,14800,17750000
+2022,3,New York City,Kings,20200,26250000
+2022,3,New York City,New York,10200,13890000
+2022,3,New York City,Queens,17400,21820000
+2022,3,New York City,Richmond,3600,4650000
+2022,4,New York City,Bronx,13000,14520000
+2022,4,New York City,Kings,18100,21680000
+2022,4,New York City,New York,8900,11350000
+2022,4,New York City,Queens,14900,17730000
+2022,4,New York City,Richmond,3400,3790000
+2022,5,New York City,Bronx,11200,15910000
+2022,5,New York City,Kings,16000,23650000
+2022,5,New York City,New York,8700,13050000
+2022,5,New York City,Queens,12700,18760000
+2022,5,New York City,Richmond,2700,3880000
+2022,6,New York City,Bronx,10800,14270000
+2022,6,New York City,Kings,15800,21700000
+2022,6,New York City,New York,8700,12400000
+2022,6,New York City,Queens,12100,16800000
+2022,6,New York City,Richmond,2600,3590000
+2022,7,New York City,Bronx,13100,15380000
+2022,7,New York City,Kings,18300,22840000
+2022,7,New York City,New York,9600,12450000
+2022,7,New York City,Queens,13700,17160000
+2022,7,New York City,Richmond,3400,4160000
+2022,8,New York City,Bronx,13900,20530000
+2022,8,New York City,Kings,19500,30100000
+2022,8,New York City,New York,10300,16530000
+2022,8,New York City,Queens,14200,21460000
+2022,8,New York City,Richmond,3700,5620000
+2022,9,New York City,Bronx,13500,15390000
+2022,9,New York City,Kings,19100,23570000
+2022,9,New York City,New York,10100,13580000
+2022,9,New York City,Queens,13700,17020000
+2022,9,New York City,Richmond,3500,3920000
+2022,10,New York City,Bronx,11000,15600000
+2022,10,New York City,Kings,16700,24550000
+2022,10,New York City,New York,9500,14470000
+2022,10,New York City,Queens,12000,17660000
+2022,10,New York City,Richmond,2600,3700000
+2022,11,New York City,Bronx,11200,15110000
+2022,11,New York City,Kings,16800,24320000
+2022,11,New York City,New York,9900,14860000
+2022,11,New York City,Queens,12400,17890000
+2022,11,New York City,Richmond,2600,3590000
+2022,12,New York City,Bronx,11800,15290000
+2022,12,New York City,Kings,17700,24800000
+2022,12,New York City,New York,10500,15020000
+2022,12,New York City,Queens,13300,18360000
+2022,12,New York City,Richmond,2800,3620000
+2023,1,New York City,Bronx,14700,19800000
+2023,1,New York City,Kings,21900,31600000
+2023,1,New York City,New York,12400,18980000
+2023,1,New York City,Queens,16700,23660000
+2023,1,New York City,Richmond,3900,5060000
+2023,2,New York City,Bronx,13800,16960000
+2023,2,New York City,Kings,20800,27990000
+2023,2,New York City,New York,12000,16970000
+2023,2,New York City,Queens,15800,21230000
+2023,2,New York City,Richmond,3400,4270000
+2023,3,New York City,Bronx,13300,18100000
+2023,3,New York City,Kings,20800,30850000
+2023,3,New York City,New York,12700,19430000
+2023,3,New York City,Queens,15700,23070000
+2023,3,New York City,Richmond,3100,4430000
+2023,4,New York City,Bronx,14200,16920000
+2023,4,New York City,Kings,22600,29970000
+2023,4,New York City,New York,13200,18880000
+2023,4,New York City,Queens,16700,21890000
+2023,4,New York City,Richmond,3700,4290000
+2023,5,New York City,Bronx,12900,20450000
+2023,5,New York City,Kings,21600,36420000
+2023,5,New York City,New York,13800,24200000
+2023,5,New York City,Queens,15800,26570000
+2023,5,New York City,Richmond,2900,4790000
+2023,6,New York City,Bronx,12900,17680000
+2023,6,New York City,Kings,21900,32830000
+2023,6,New York City,New York,14200,22240000
+2023,6,New York City,Queens,15800,23340000
+2023,6,New York City,Richmond,3100,4190000
+2023,7,New York City,Bronx,15900,22920000
+2023,7,New York City,Kings,26200,40870000
+2023,7,New York City,New York,16000,26110000
+2023,7,New York City,Queens,18400,28420000
+2023,7,New York City,Richmond,4100,5970000
+2023,8,New York City,Bronx,16100,23170000
+2023,8,New York City,Kings,27800,44610000
+2023,8,New York City,New York,17000,28780000
+2023,8,New York City,Queens,19100,30000000
+2023,8,New York City,Richmond,4100,6190000
+2023,9,New York City,Bronx,16000,19870000
+2023,9,New York City,Kings,27700,39270000
+2023,9,New York City,New York,16800,25040000
+2023,9,New York City,Queens,18900,26110000
+2023,9,New York City,Richmond,4100,5010000
+2023,10,New York City,Bronx,13500,21530000
+2023,10,New York City,Kings,24800,42100000
+2023,10,New York City,New York,16000,27910000
+2023,10,New York City,Queens,17000,28590000
+2023,10,New York City,Richmond,3100,4950000
+2023,11,New York City,Bronx,13200,17950000
+2023,11,New York City,Kings,23600,35110000
+2023,11,New York City,New York,15200,23520000
+2023,11,New York City,Queens,16600,24550000
+2023,11,New York City,Richmond,3000,4210000
+2023,12,New York City,Bronx,13200,17900000
+2023,12,New York City,Kings,22600,32860000
+2023,12,New York City,New York,14600,21810000
+2023,12,New York City,Queens,16200,23380000
+2023,12,New York City,Richmond,3100,4080000
+2024,1,New York City,Bronx,16200,23050000
+2024,1,New York City,Kings,26700,41780000
+2024,1,New York City,New York,16200,26950000
+2024,1,New York City,Queens,19600,30590000
+2024,1,New York City,Richmond,4200,5690000

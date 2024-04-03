@@ -1,0 +1,699 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_1420a95df838e9dfba21a7191129798c {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js"></script>
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_1420a95df838e9dfba21a7191129798c" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_1420a95df838e9dfba21a7191129798c = L.map(
+                "map_1420a95df838e9dfba21a7191129798c",
+                {
+                    center: [40.7128, -74.006],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 12,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_17096de61178672aac86153451d0d701 = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors", "detectRetina": false, "maxNativeZoom": 19, "maxZoom": 19, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            );
+        
+    
+            tile_layer_17096de61178672aac86153451d0d701.addTo(map_1420a95df838e9dfba21a7191129798c);
+        
+    
+            var circle_marker_762b88b0f0c7f560d15d660c925f45c5 = L.circleMarker(
+                [40.75730895996094, -73.98675537109375],
+                {"bubblingMouseEvents": true, "color": "#ff0000ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#ff0000ff", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 11.15802, "stroke": true, "weight": 3}
+            ).addTo(map_1420a95df838e9dfba21a7191129798c);
+        
+    
+            var marker_382af76a9e858714474c57eb0bc78db0 = L.marker(
+                [40.75730895996094, -73.98675537109375],
+                {}
+            ).addTo(map_1420a95df838e9dfba21a7191129798c);
+        
+    
+        var popup_019636cf57928b63722f13607a9d0d71 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_41ffffe0819dede8034e8d6fe726cda2 = $(`<div id="html_41ffffe0819dede8034e8d6fe726cda2" style="width: 100.0%; height: 100.0%;"><b>Times Sq-42 St (N,Q,R,W,S,1,2,3,7)/42 St (A,C,E)</b><br>Num of Passengers: 11,158,020<br>Region: Manhattan</div>`)[0];
+                popup_019636cf57928b63722f13607a9d0d71.setContent(html_41ffffe0819dede8034e8d6fe726cda2);
+            
+        
+
+        marker_382af76a9e858714474c57eb0bc78db0.bindPopup(popup_019636cf57928b63722f13607a9d0d71)
+        ;
+
+        
+    
+    
+            var circle_marker_c1d5c578837c505ebe532bfb4d37f631 = L.circleMarker(
+                [40.75177764892578, -73.97684478759766],
+                {"bubblingMouseEvents": true, "color": "#ff0000ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#ff0000ff", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 7.874361, "stroke": true, "weight": 3}
+            ).addTo(map_1420a95df838e9dfba21a7191129798c);
+        
+    
+            var marker_f4d254fcc856a15f74458c75114b2da1 = L.marker(
+                [40.75177764892578, -73.97684478759766],
+                {}
+            ).addTo(map_1420a95df838e9dfba21a7191129798c);
+        
+    
+        var popup_f409fba50ec21e002dfda72444635ace = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_fee13def1ae43e940a934115d1ed683f = $(`<div id="html_fee13def1ae43e940a934115d1ed683f" style="width: 100.0%; height: 100.0%;"><b>Grand Central-42 St (S,4,5,6,7)</b><br>Num of Passengers: 7,874,361<br>Region: Manhattan</div>`)[0];
+                popup_f409fba50ec21e002dfda72444635ace.setContent(html_fee13def1ae43e940a934115d1ed683f);
+            
+        
+
+        marker_f4d254fcc856a15f74458c75114b2da1.bindPopup(popup_f409fba50ec21e002dfda72444635ace)
+        ;
+
+        
+    
+    
+            var circle_marker_2e6b34e6d7829a09cbd6cbb2e08fae47 = L.circleMarker(
+                [40.74971771240234, -73.98782348632812],
+                {"bubblingMouseEvents": true, "color": "#ff0000ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#ff0000ff", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5.853469, "stroke": true, "weight": 3}
+            ).addTo(map_1420a95df838e9dfba21a7191129798c);
+        
+    
+            var marker_6eec5d50a766b1b9b63a8f9e8d498157 = L.marker(
+                [40.74971771240234, -73.98782348632812],
+                {}
+            ).addTo(map_1420a95df838e9dfba21a7191129798c);
+        
+    
+        var popup_8aeedd6a204190b3cb38bf11657e4847 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_8777fb86776dc193109327e1d328551d = $(`<div id="html_8777fb86776dc193109327e1d328551d" style="width: 100.0%; height: 100.0%;"><b>34 St-Herald Sq (B,D,F,M,N,Q,R,W)</b><br>Num of Passengers: 5,853,469<br>Region: Manhattan</div>`)[0];
+                popup_8aeedd6a204190b3cb38bf11657e4847.setContent(html_8777fb86776dc193109327e1d328551d);
+            
+        
+
+        marker_6eec5d50a766b1b9b63a8f9e8d498157.bindPopup(popup_8aeedd6a204190b3cb38bf11657e4847)
+        ;
+
+        
+    
+    
+            var circle_marker_87156c824d4642da0c7819ee2639dff8 = L.circleMarker(
+                [40.73573684692383, -73.98995208740234],
+                {"bubblingMouseEvents": true, "color": "#ff0000ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#ff0000ff", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5.15876, "stroke": true, "weight": 3}
+            ).addTo(map_1420a95df838e9dfba21a7191129798c);
+        
+    
+            var marker_20bf9753722e3448da8c6781674880f5 = L.marker(
+                [40.73573684692383, -73.98995208740234],
+                {}
+            ).addTo(map_1420a95df838e9dfba21a7191129798c);
+        
+    
+        var popup_7d2fd13599bad219b18a83b6438ddcf7 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_06e92f7dc22b720efbffa6f3fe965379 = $(`<div id="html_06e92f7dc22b720efbffa6f3fe965379" style="width: 100.0%; height: 100.0%;"><b>14 St-Union Sq (L,N,Q,R,W,4,5,6)</b><br>Num of Passengers: 5,158,760<br>Region: Manhattan</div>`)[0];
+                popup_7d2fd13599bad219b18a83b6438ddcf7.setContent(html_06e92f7dc22b720efbffa6f3fe965379);
+            
+        
+
+        marker_20bf9753722e3448da8c6781674880f5.bindPopup(popup_7d2fd13599bad219b18a83b6438ddcf7)
+        ;
+
+        
+    
+    
+            var circle_marker_4bbee716b99b359edbc17901e0caf98c = L.circleMarker(
+                [40.71037292480469, -74.0065689086914],
+                {"bubblingMouseEvents": true, "color": "#ff0000ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#ff0000ff", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 4.598235, "stroke": true, "weight": 3}
+            ).addTo(map_1420a95df838e9dfba21a7191129798c);
+        
+    
+            var marker_68c01fccec198aa6954492dccd7107d1 = L.marker(
+                [40.71037292480469, -74.0065689086914],
+                {}
+            ).addTo(map_1420a95df838e9dfba21a7191129798c);
+        
+    
+        var popup_07fb890bb158c5279bea6087098ced79 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_b41ce7b5863ce3771598ffa35ce8f456 = $(`<div id="html_b41ce7b5863ce3771598ffa35ce8f456" style="width: 100.0%; height: 100.0%;"><b>Fulton St (A,C,J,Z,2,3,4,5)</b><br>Num of Passengers: 4,598,235<br>Region: Manhattan</div>`)[0];
+                popup_07fb890bb158c5279bea6087098ced79.setContent(html_b41ce7b5863ce3771598ffa35ce8f456);
+            
+        
+
+        marker_68c01fccec198aa6954492dccd7107d1.bindPopup(popup_07fb890bb158c5279bea6087098ced79)
+        ;
+
+        
+    
+    
+            var circle_marker_0d2f50f39f858626d63f8ccb63161f16 = L.circleMarker(
+                [40.752288818359375, -73.99339294433594],
+                {"bubblingMouseEvents": true, "color": "#ff0000ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#ff0000ff", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 4.329338, "stroke": true, "weight": 3}
+            ).addTo(map_1420a95df838e9dfba21a7191129798c);
+        
+    
+            var marker_3464dae890b36df389efa0b89c191644 = L.marker(
+                [40.752288818359375, -73.99339294433594],
+                {}
+            ).addTo(map_1420a95df838e9dfba21a7191129798c);
+        
+    
+        var popup_558d6a84dcad26748bf5db78adfa1f75 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_90ecba94231a38b22cb1315788be24e6 = $(`<div id="html_90ecba94231a38b22cb1315788be24e6" style="width: 100.0%; height: 100.0%;"><b>34 St-Penn Station (A,C,E)</b><br>Num of Passengers: 4,329,338<br>Region: Manhattan</div>`)[0];
+                popup_558d6a84dcad26748bf5db78adfa1f75.setContent(html_90ecba94231a38b22cb1315788be24e6);
+            
+        
+
+        marker_3464dae890b36df389efa0b89c191644.bindPopup(popup_558d6a84dcad26748bf5db78adfa1f75)
+        ;
+
+        
+    
+    
+            var circle_marker_5b70d50b7132b81ed708f5bd147692dc = L.circleMarker(
+                [40.75037384033203, -73.99105834960938],
+                {"bubblingMouseEvents": true, "color": "#e70018ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#e70018ff", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3.809301, "stroke": true, "weight": 3}
+            ).addTo(map_1420a95df838e9dfba21a7191129798c);
+        
+    
+            var marker_78211121bae8b3a888e2afe87ee7999d = L.marker(
+                [40.75037384033203, -73.99105834960938],
+                {}
+            ).addTo(map_1420a95df838e9dfba21a7191129798c);
+        
+    
+        var popup_adc8d2c3a6fa0f521bc329f471de428f = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_243df0bc68daa824b0c4e84cfaf01475 = $(`<div id="html_243df0bc68daa824b0c4e84cfaf01475" style="width: 100.0%; height: 100.0%;"><b>34 St-Penn Station (1,2,3)</b><br>Num of Passengers: 3,809,301<br>Region: Manhattan</div>`)[0];
+                popup_adc8d2c3a6fa0f521bc329f471de428f.setContent(html_243df0bc68daa824b0c4e84cfaf01475);
+            
+        
+
+        marker_78211121bae8b3a888e2afe87ee7999d.bindPopup(popup_adc8d2c3a6fa0f521bc329f471de428f)
+        ;
+
+        
+    
+    
+            var circle_marker_ed116614340bb66d7800e72f83b1e94a = L.circleMarker(
+                [40.74664306640625, -73.8913345336914],
+                {"bubblingMouseEvents": true, "color": "#e1001eff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#e1001eff", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3.764, "stroke": true, "weight": 3}
+            ).addTo(map_1420a95df838e9dfba21a7191129798c);
+        
+    
+            var marker_8bfa48a0355e5a44f08fea4ef8475329 = L.marker(
+                [40.74664306640625, -73.8913345336914],
+                {}
+            ).addTo(map_1420a95df838e9dfba21a7191129798c);
+        
+    
+        var popup_f74f5af67af3d80f6d395f9d319d5fe2 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_494e5dc022f7fb3c467a0f66582da1a9 = $(`<div id="html_494e5dc022f7fb3c467a0f66582da1a9" style="width: 100.0%; height: 100.0%;"><b>74-Broadway (7)/Jackson Hts-Roosevelt Av (E,F,M,R)</b><br>Num of Passengers: 3,764,000<br>Region: Queens</div>`)[0];
+                popup_f74f5af67af3d80f6d395f9d319d5fe2.setContent(html_494e5dc022f7fb3c467a0f66582da1a9);
+            
+        
+
+        marker_8bfa48a0355e5a44f08fea4ef8475329.bindPopup(popup_f74f5af67af3d80f6d395f9d319d5fe2)
+        ;
+
+        
+    
+    
+            var circle_marker_74c3ebb733ae6543297a8ca1428c0e6c = L.circleMarker(
+                [40.76829528808594, -73.98173522949219],
+                {"bubblingMouseEvents": true, "color": "#df0020ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#df0020ff", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3.743759, "stroke": true, "weight": 3}
+            ).addTo(map_1420a95df838e9dfba21a7191129798c);
+        
+    
+            var marker_a83b8cdaa9f1f6f1e861a134d51939d3 = L.marker(
+                [40.76829528808594, -73.98173522949219],
+                {}
+            ).addTo(map_1420a95df838e9dfba21a7191129798c);
+        
+    
+        var popup_0bf7fc20db8d27c7efdf91a7f9de1413 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_544450de1c051dec43b7c90ea66ee0ce = $(`<div id="html_544450de1c051dec43b7c90ea66ee0ce" style="width: 100.0%; height: 100.0%;"><b>59 St-Columbus Circle (A,B,C,D,1)</b><br>Num of Passengers: 3,743,759<br>Region: Manhattan</div>`)[0];
+                popup_0bf7fc20db8d27c7efdf91a7f9de1413.setContent(html_544450de1c051dec43b7c90ea66ee0ce);
+            
+        
+
+        marker_a83b8cdaa9f1f6f1e861a134d51939d3.bindPopup(popup_0bf7fc20db8d27c7efdf91a7f9de1413)
+        ;
+
+        
+    
+    
+            var circle_marker_b8ba6079284cc8397b7fad847e192a81 = L.circleMarker(
+                [40.75960159301758, -73.83003234863281],
+                {"bubblingMouseEvents": true, "color": "#ca0035ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#ca0035ff", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3.586031, "stroke": true, "weight": 3}
+            ).addTo(map_1420a95df838e9dfba21a7191129798c);
+        
+    
+            var marker_fb7583fad68bb7e69086510a02ba6f04 = L.marker(
+                [40.75960159301758, -73.83003234863281],
+                {}
+            ).addTo(map_1420a95df838e9dfba21a7191129798c);
+        
+    
+        var popup_ae4c32e3eba3054cfb97082e5aefe24e = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_4f664d0728cd436a591b20ee558779cb = $(`<div id="html_4f664d0728cd436a591b20ee558779cb" style="width: 100.0%; height: 100.0%;"><b>Flushing-Main St (7)</b><br>Num of Passengers: 3,586,031<br>Region: Queens</div>`)[0];
+                popup_ae4c32e3eba3054cfb97082e5aefe24e.setContent(html_4f664d0728cd436a591b20ee558779cb);
+            
+        
+
+        marker_fb7583fad68bb7e69086510a02ba6f04.bindPopup(popup_ae4c32e3eba3054cfb97082e5aefe24e)
+        ;
+
+        
+    
+    
+            var circle_marker_686f0e58cdeebfb9a34dba97fa1abcf9 = L.circleMarker(
+                [40.714111328125, -74.00858306884766],
+                {"bubblingMouseEvents": true, "color": "#9c0063ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#9c0063ff", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3.227705, "stroke": true, "weight": 3}
+            ).addTo(map_1420a95df838e9dfba21a7191129798c);
+        
+    
+            var marker_e72aa4d14c561cf649034d16190191b8 = L.marker(
+                [40.714111328125, -74.00858306884766],
+                {}
+            ).addTo(map_1420a95df838e9dfba21a7191129798c);
+        
+    
+        var popup_89f07c8a4de231c58dc9a011c389d695 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_f3fd3d28e31b177741e4ee0995a3bf68 = $(`<div id="html_f3fd3d28e31b177741e4ee0995a3bf68" style="width: 100.0%; height: 100.0%;"><b>Chambers St (A,C)/WTC (E)/Park Pl (2,3)/Cortlandt (R,W)</b><br>Num of Passengers: 3,227,705<br>Region: Manhattan</div>`)[0];
+                popup_89f07c8a4de231c58dc9a011c389d695.setContent(html_f3fd3d28e31b177741e4ee0995a3bf68);
+            
+        
+
+        marker_e72aa4d14c561cf649034d16190191b8.bindPopup(popup_89f07c8a4de231c58dc9a011c389d695)
+        ;
+
+        
+    
+    
+            var circle_marker_f92741dac91c4cdc4bf34515d8d3c268 = L.circleMarker(
+                [40.73822784423828, -73.99620819091797],
+                {"bubblingMouseEvents": true, "color": "#6b0094ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#6b0094ff", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 2.845151, "stroke": true, "weight": 3}
+            ).addTo(map_1420a95df838e9dfba21a7191129798c);
+        
+    
+            var marker_968298780a73dd575c7288130dac914f = L.marker(
+                [40.73822784423828, -73.99620819091797],
+                {}
+            ).addTo(map_1420a95df838e9dfba21a7191129798c);
+        
+    
+        var popup_2c623e69a91a959a41ba2f8cb36a7149 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_5caa0950fdcef204337ebdb66807ab68 = $(`<div id="html_5caa0950fdcef204337ebdb66807ab68" style="width: 100.0%; height: 100.0%;"><b>14 St (F,M,1,2,3)/6 Av (L)</b><br>Num of Passengers: 2,845,151<br>Region: Manhattan</div>`)[0];
+                popup_2c623e69a91a959a41ba2f8cb36a7149.setContent(html_5caa0950fdcef204337ebdb66807ab68);
+            
+        
+
+        marker_968298780a73dd575c7288130dac914f.bindPopup(popup_2c623e69a91a959a41ba2f8cb36a7149)
+        ;
+
+        
+    
+    
+            var circle_marker_8fcec715c6fcb433a09bbfc0726ac757 = L.circleMarker(
+                [40.76266098022461, -73.96725463867188],
+                {"bubblingMouseEvents": true, "color": "#670098ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#670098ff", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 2.811229, "stroke": true, "weight": 3}
+            ).addTo(map_1420a95df838e9dfba21a7191129798c);
+        
+    
+            var marker_56ade4f4b72e4916246dceb58e4d7dc9 = L.marker(
+                [40.76266098022461, -73.96725463867188],
+                {}
+            ).addTo(map_1420a95df838e9dfba21a7191129798c);
+        
+    
+        var popup_c052c804d5ebe057037cec8542166a86 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_aaba8bc879e1bdf88477951a4c71b3f4 = $(`<div id="html_aaba8bc879e1bdf88477951a4c71b3f4" style="width: 100.0%; height: 100.0%;"><b>Lexington Av (N,R,W)/59 St (4,5,6)</b><br>Num of Passengers: 2,811,229<br>Region: Manhattan</div>`)[0];
+                popup_c052c804d5ebe057037cec8542166a86.setContent(html_aaba8bc879e1bdf88477951a4c71b3f4);
+            
+        
+
+        marker_56ade4f4b72e4916246dceb58e4d7dc9.bindPopup(popup_c052c804d5ebe057037cec8542166a86)
+        ;
+
+        
+    
+    
+            var circle_marker_4b283fa926884169f9205500b798ad7b = L.circleMarker(
+                [40.74089431762695, -74.00169372558594],
+                {"bubblingMouseEvents": true, "color": "#63009cff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#63009cff", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 2.780063, "stroke": true, "weight": 3}
+            ).addTo(map_1420a95df838e9dfba21a7191129798c);
+        
+    
+            var marker_63e7248f7f02154783bcb14147e72c65 = L.marker(
+                [40.74089431762695, -74.00169372558594],
+                {}
+            ).addTo(map_1420a95df838e9dfba21a7191129798c);
+        
+    
+        var popup_287ca84b879ffdb74a2971b060ffbe85 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_36850c6a3486ad2688d432dd4fe4e11a = $(`<div id="html_36850c6a3486ad2688d432dd4fe4e11a" style="width: 100.0%; height: 100.0%;"><b>14 St (A,C,E)/8 Av (L)</b><br>Num of Passengers: 2,780,063<br>Region: Manhattan</div>`)[0];
+                popup_287ca84b879ffdb74a2971b060ffbe85.setContent(html_36850c6a3486ad2688d432dd4fe4e11a);
+            
+        
+
+        marker_63e7248f7f02154783bcb14147e72c65.bindPopup(popup_287ca84b879ffdb74a2971b060ffbe85)
+        ;
+
+        
+    
+    
+            var circle_marker_70969282163cbe5aa3e9acb648d8f9c5 = L.circleMarker(
+                [40.75422286987305, -73.98196411132812],
+                {"bubblingMouseEvents": true, "color": "#5d00a2ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#5d00a2ff", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 2.73809, "stroke": true, "weight": 3}
+            ).addTo(map_1420a95df838e9dfba21a7191129798c);
+        
+    
+            var marker_2e181f1c57358e2887a2770cabb7ed41 = L.marker(
+                [40.75422286987305, -73.98196411132812],
+                {}
+            ).addTo(map_1420a95df838e9dfba21a7191129798c);
+        
+    
+        var popup_73092a7be019a0bd6371c7499eb9beb2 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_15d09681d819f74f62114839ad736d51 = $(`<div id="html_15d09681d819f74f62114839ad736d51" style="width: 100.0%; height: 100.0%;"><b>Bryant Pk (B,D,F,M)/5 Av (7)</b><br>Num of Passengers: 2,738,090<br>Region: Manhattan</div>`)[0];
+                popup_73092a7be019a0bd6371c7499eb9beb2.setContent(html_15d09681d819f74f62114839ad736d51);
+            
+        
+
+        marker_2e181f1c57358e2887a2770cabb7ed41.bindPopup(popup_73092a7be019a0bd6371c7499eb9beb2)
+        ;
+
+        
+    
+    
+            var circle_marker_3216d5e6217ee06348112a2a8f00b8a1 = L.circleMarker(
+                [40.71952819824219, -73.99989318847656],
+                {"bubblingMouseEvents": true, "color": "#5c00a3ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#5c00a3ff", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 2.72476, "stroke": true, "weight": 3}
+            ).addTo(map_1420a95df838e9dfba21a7191129798c);
+        
+    
+            var marker_af6d61e70b0353b2e3502b6e88892fd2 = L.marker(
+                [40.71952819824219, -73.99989318847656],
+                {}
+            ).addTo(map_1420a95df838e9dfba21a7191129798c);
+        
+    
+        var popup_7bde27dcdeb5e62ad1dd5bea043d11d9 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_26d2ce75bbadccd21c0718a5fe96647b = $(`<div id="html_26d2ce75bbadccd21c0718a5fe96647b" style="width: 100.0%; height: 100.0%;"><b>Canal St (J,N,Q,R,W,Z,6)</b><br>Num of Passengers: 2,724,760<br>Region: Manhattan</div>`)[0];
+                popup_7bde27dcdeb5e62ad1dd5bea043d11d9.setContent(html_26d2ce75bbadccd21c0718a5fe96647b);
+            
+        
+
+        marker_af6d61e70b0353b2e3502b6e88892fd2.bindPopup(popup_7bde27dcdeb5e62ad1dd5bea043d11d9)
+        ;
+
+        
+    
+    
+            var circle_marker_d66867e7cd04896e38e865c3b866af2c = L.circleMarker(
+                [40.75755310058594, -73.96905517578125],
+                {"bubblingMouseEvents": true, "color": "#5a00a5ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#5a00a5ff", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 2.713234, "stroke": true, "weight": 3}
+            ).addTo(map_1420a95df838e9dfba21a7191129798c);
+        
+    
+            var marker_55c0b8ecbd5d9d75517880b04a8628a2 = L.marker(
+                [40.75755310058594, -73.96905517578125],
+                {}
+            ).addTo(map_1420a95df838e9dfba21a7191129798c);
+        
+    
+        var popup_1cb8950f6431f7d76f7538aa66044524 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_c733191cc89e03d40ca59e6a2c8b8ff4 = $(`<div id="html_c733191cc89e03d40ca59e6a2c8b8ff4" style="width: 100.0%; height: 100.0%;"><b>Lexington Av-53 St (E,M)/51 St (6)</b><br>Num of Passengers: 2,713,234<br>Region: Manhattan</div>`)[0];
+                popup_1cb8950f6431f7d76f7538aa66044524.setContent(html_c733191cc89e03d40ca59e6a2c8b8ff4);
+            
+        
+
+        marker_55c0b8ecbd5d9d75517880b04a8628a2.bindPopup(popup_1cb8950f6431f7d76f7538aa66044524)
+        ;
+
+        
+    
+    
+            var circle_marker_3c3fe46baa6e1760150cde75cc6b17df = L.circleMarker(
+                [40.75866317749024, -73.98133087158203],
+                {"bubblingMouseEvents": true, "color": "#5700a8ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#5700a8ff", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 2.690603, "stroke": true, "weight": 3}
+            ).addTo(map_1420a95df838e9dfba21a7191129798c);
+        
+    
+            var marker_29e07f29781147e23ded90e718aea9ef = L.marker(
+                [40.75866317749024, -73.98133087158203],
+                {}
+            ).addTo(map_1420a95df838e9dfba21a7191129798c);
+        
+    
+        var popup_ea4b144350b29aae960b506b4ae1b767 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_36814a3ee391b39640fc6818a0b1b80c = $(`<div id="html_36814a3ee391b39640fc6818a0b1b80c" style="width: 100.0%; height: 100.0%;"><b>47-50 Sts-Rockefeller Ctr (B,D,F,M)</b><br>Num of Passengers: 2,690,603<br>Region: Manhattan</div>`)[0];
+                popup_ea4b144350b29aae960b506b4ae1b767.setContent(html_36814a3ee391b39640fc6818a0b1b80c);
+            
+        
+
+        marker_29e07f29781147e23ded90e718aea9ef.bindPopup(popup_ea4b144350b29aae960b506b4ae1b767)
+        ;
+
+        
+    
+    
+            var circle_marker_227a5b5c4ce13bbbe01d984e80120fc4 = L.circleMarker(
+                [40.77949142456055, -73.9555892944336],
+                {"bubblingMouseEvents": true, "color": "#4400bbff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#4400bbff", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 2.541439, "stroke": true, "weight": 3}
+            ).addTo(map_1420a95df838e9dfba21a7191129798c);
+        
+    
+            var marker_9293d7494040488063ac7a1fc3acb1f6 = L.marker(
+                [40.77949142456055, -73.9555892944336],
+                {}
+            ).addTo(map_1420a95df838e9dfba21a7191129798c);
+        
+    
+        var popup_73e8ab2da4c12d103c825b760fca206f = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_c129188d840635cdb6c352fdd5337e65 = $(`<div id="html_c129188d840635cdb6c352fdd5337e65" style="width: 100.0%; height: 100.0%;"><b>86 St (4,5,6)</b><br>Num of Passengers: 2,541,439<br>Region: Manhattan</div>`)[0];
+                popup_73e8ab2da4c12d103c825b760fca206f.setContent(html_c129188d840635cdb6c352fdd5337e65);
+            
+        
+
+        marker_9293d7494040488063ac7a1fc3acb1f6.bindPopup(popup_73e8ab2da4c12d103c825b760fca206f)
+        ;
+
+        
+    
+    
+            var circle_marker_0a4691cd2a7afe8657be1cf7346040ea = L.circleMarker(
+                [40.73233795166016, -74.00049591064453],
+                {"bubblingMouseEvents": true, "color": "#3500caff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#3500caff", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 2.423618, "stroke": true, "weight": 3}
+            ).addTo(map_1420a95df838e9dfba21a7191129798c);
+        
+    
+            var marker_6568517cd585c7864c39148931003b23 = L.marker(
+                [40.73233795166016, -74.00049591064453],
+                {}
+            ).addTo(map_1420a95df838e9dfba21a7191129798c);
+        
+    
+        var popup_3b57645da610f68c9c794f9e12e3c9ac = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_fbc2b719b94b46619cf58ded8c80fdcf = $(`<div id="html_fbc2b719b94b46619cf58ded8c80fdcf" style="width: 100.0%; height: 100.0%;"><b>W 4 St-Wash Sq (A,C,E,B,D,F,M)</b><br>Num of Passengers: 2,423,618<br>Region: Manhattan</div>`)[0];
+                popup_3b57645da610f68c9c794f9e12e3c9ac.setContent(html_fbc2b719b94b46619cf58ded8c80fdcf);
+            
+        
+
+        marker_6568517cd585c7864c39148931003b23.bindPopup(popup_3b57645da610f68c9c794f9e12e3c9ac)
+        ;
+
+        
+    
+    
+    var color_map_3017bf2e1cd33ba5c24615813cf778f3 = {};
+
+    
+    color_map_3017bf2e1cd33ba5c24615813cf778f3.color = d3.scale.threshold()
+              .domain([14830.0, 22816.312625250503, 30802.625250501, 38788.93787575151, 46775.250501002, 54761.563126252506, 62747.87575150301, 70734.1883767535, 78720.501002004, 86706.81362725451, 94693.12625250501, 102679.43887775551, 110665.75150300602, 118652.06412825652, 126638.37675350701, 134624.6893787575, 142611.002004008, 150597.31462925853, 158583.62725450902, 166569.9398797595, 174556.25250501002, 182542.5651302605, 190528.87775551103, 198515.19038076152, 206501.50300601203, 214487.81563126252, 222474.12825651304, 230460.44088176353, 238446.75350701401, 246433.06613226453, 254419.37875751502, 262405.69138276554, 270392.004008016, 278378.3166332665, 286364.62925851706, 294350.94188376755, 302337.25450901804, 310323.5671342685, 318309.879759519, 326296.19238476956, 334282.50501002005, 342268.81763527053, 350255.130260521, 358241.44288577157, 366227.75551102206, 374214.06813627254, 382200.38076152303, 390186.6933867735, 398173.00601202407, 406159.31863727455, 414145.63126252504, 422131.94388777553, 430118.2565130261, 438104.56913827657, 446090.88176352705, 454077.19438877754, 462063.50701402803, 470049.8196392786, 478036.13226452906, 486022.44488977955, 494008.75751503004, 501995.0701402806, 509981.3827655311, 517967.69539078156, 525954.008016032, 533940.3206412825, 541926.633266533, 549912.9458917836, 557899.2585170341, 565885.5711422845, 573871.8837675351, 581858.1963927855, 589844.5090180361, 597830.8216432866, 605817.134268537, 613803.4468937876, 621789.759519038, 629776.0721442886, 637762.3847695391, 645748.6973947895, 653735.0100200401, 661721.3226452906, 669707.6352705411, 677693.9478957916, 685680.260521042, 693666.5731462926, 701652.8857715431, 709639.1983967936, 717625.5110220441, 725611.8236472945, 733598.1362725451, 741584.4488977956, 749570.7615230461, 757557.0741482966, 765543.386773547, 773529.6993987976, 781516.0120240481, 789502.3246492986, 797488.6372745491, 805474.9498997997, 813461.2625250501, 821447.5751503006, 829433.8877755511, 837420.2004008016, 845406.5130260522, 853392.8256513026, 861379.1382765531, 869365.4509018036, 877351.7635270541, 885338.0761523047, 893324.3887775551, 901310.7014028056, 909297.0140280561, 917283.3266533066, 925269.6392785572, 933255.9519038076, 941242.2645290581, 949228.5771543087, 957214.8897795591, 965201.2024048097, 973187.5150300601, 981173.8276553106, 989160.1402805612, 997146.4529058116, 1005132.7655310621, 1013119.0781563126, 1021105.3907815631, 1029091.7034068137, 1037078.0160320641, 1045064.3286573146, 1053050.641282565, 1061036.9539078157, 1069023.266533066, 1077009.5791583166, 1084995.8917835671, 1092982.2044088177, 1100968.5170340682, 1108954.8296593186, 1116941.142284569, 1124927.4549098196, 1132913.7675350702, 1140900.0801603207, 1148886.392785571, 1156872.7054108216, 1164859.0180360721, 1172845.3306613227, 1180831.6432865732, 1188817.9559118235, 1196804.268537074, 1204790.5811623246, 1212776.8937875752, 1220763.2064128257, 1228749.519038076, 1236735.8316633266, 1244722.1442885771, 1252708.4569138277, 1260694.7695390782, 1268681.0821643285, 1276667.394789579, 1284653.7074148296, 1292640.0200400802, 1300626.3326653307, 1308612.6452905813, 1316598.9579158316, 1324585.2705410821, 1332571.5831663327, 1340557.8957915832, 1348544.2084168338, 1356530.521042084, 1364516.8336673346, 1372503.1462925852, 1380489.4589178357, 1388475.7715430863, 1396462.0841683366, 1404448.3967935871, 1412434.7094188377, 1420421.0220440882, 1428407.3346693388, 1436393.647294589, 1444379.9599198396, 1452366.2725450902, 1460352.5851703407, 1468338.8977955913, 1476325.2104208416, 1484311.5230460921, 1492297.8356713427, 1500284.1482965932, 1508270.4609218438, 1516256.773547094, 1524243.0861723446, 1532229.3987975952, 1540215.7114228457, 1548202.0240480963, 1556188.3366733466, 1564174.6492985971, 1572160.9619238477, 1580147.2745490982, 1588133.5871743488, 1596119.8997995993, 1604106.2124248496, 1612092.5250501002, 1620078.8376753507, 1628065.1503006013, 1636051.4629258518, 1644037.7755511021, 1652024.0881763527, 1660010.4008016032, 1667996.7134268538, 1675983.0260521043, 1683969.3386773546, 1691955.6513026052, 1699941.9639278557, 1707928.2765531063, 1715914.5891783568, 1723900.9018036071, 1731887.2144288577, 1739873.5270541082, 1747859.8396793588, 1755846.1523046093, 1763832.4649298596, 1771818.7775551102, 1779805.0901803607, 1787791.4028056113, 1795777.7154308618, 1803764.0280561121, 1811750.3406813627, 1819736.6533066132, 1827722.9659318638, 1835709.2785571143, 1843695.5911823646, 1851681.9038076152, 1859668.2164328657, 1867654.5290581163, 1875640.8416833668, 1883627.1543086173, 1891613.4669338677, 1899599.7795591182, 1907586.0921843688, 1915572.4048096193, 1923558.7174348698, 1931545.0300601202, 1939531.3426853707, 1947517.6553106213, 1955503.9679358718, 1963490.2805611223, 1971476.5931863727, 1979462.9058116232, 1987449.2184368738, 1995435.5310621243, 2003421.8436873748, 2011408.1563126252, 2019394.4689378757, 2027380.7815631262, 2035367.0941883768, 2043353.4068136273, 2051339.7194388777, 2059326.0320641282, 2067312.3446893787, 2075298.6573146293, 2083284.9699398798, 2091271.2825651302, 2099257.5951903807, 2107243.9078156315, 2115230.220440882, 2123216.533066132, 2131202.845691383, 2139189.158316633, 2147175.470941884, 2155161.7835671343, 2163148.0961923846, 2171134.4088176354, 2179120.7214428857, 2187107.0340681365, 2195093.346693387, 2203079.659318637, 2211065.971943888, 2219052.284569138, 2227038.597194389, 2235024.9098196393, 2243011.2224448896, 2250997.5350701404, 2258983.8476953907, 2266970.1603206415, 2274956.472945892, 2282942.785571142, 2290929.098196393, 2298915.410821643, 2306901.723446894, 2314888.0360721443, 2322874.3486973946, 2330860.6613226454, 2338846.9739478957, 2346833.2865731465, 2354819.599198397, 2362805.911823647, 2370792.224448898, 2378778.537074148, 2386764.849699399, 2394751.1623246493, 2402737.4749498996, 2410723.7875751504, 2418710.1002004007, 2426696.4128256515, 2434682.725450902, 2442669.038076152, 2450655.350701403, 2458641.663326653, 2466627.975951904, 2474614.2885771543, 2482600.6012024046, 2490586.9138276554, 2498573.2264529057, 2506559.5390781565, 2514545.851703407, 2522532.164328657, 2530518.476953908, 2538504.789579158, 2546491.102204409, 2554477.4148296593, 2562463.7274549096, 2570450.0400801604, 2578436.3527054107, 2586422.6653306615, 2594408.977955912, 2602395.2905811626, 2610381.603206413, 2618367.915831663, 2626354.228456914, 2634340.5410821643, 2642326.853707415, 2650313.1663326654, 2658299.4789579157, 2666285.7915831665, 2674272.104208417, 2682258.4168336676, 2690244.729458918, 2698231.042084168, 2706217.354709419, 2714203.6673346693, 2722189.97995992, 2730176.2925851704, 2738162.6052104207, 2746148.9178356715, 2754135.230460922, 2762121.5430861725, 2770107.855711423, 2778094.168336673, 2786080.480961924, 2794066.7935871743, 2802053.106212425, 2810039.4188376754, 2818025.7314629257, 2826012.0440881765, 2833998.3567134268, 2841984.6693386775, 2849970.981963928, 2857957.294589178, 2865943.607214429, 2873929.9198396793, 2881916.23246493, 2889902.5450901804, 2897888.8577154307, 2905875.1703406814, 2913861.4829659318, 2921847.7955911825, 2929834.108216433, 2937820.420841683, 2945806.733466934, 2953793.0460921843, 2961779.358717435, 2969765.6713426854, 2977751.9839679357, 2985738.2965931864, 2993724.6092184368, 3001710.9218436875, 3009697.234468938, 3017683.547094188, 3025669.859719439, 3033656.1723446893, 3041642.48496994, 3049628.7975951903, 3057615.1102204407, 3065601.4228456914, 3073587.7354709418, 3081574.0480961925, 3089560.360721443, 3097546.673346693, 3105532.985971944, 3113519.2985971943, 3121505.611222445, 3129491.9238476953, 3137478.2364729457, 3145464.5490981964, 3153450.8617234468, 3161437.1743486975, 3169423.486973948, 3177409.7995991986, 3185396.112224449, 3193382.4248496993, 3201368.73747495, 3209355.0501002003, 3217341.362725451, 3225327.6753507014, 3233313.9879759517, 3241300.3006012025, 3249286.613226453, 3257272.9258517036, 3265259.238476954, 3273245.5511022042, 3281231.863727455, 3289218.1763527053, 3297204.488977956, 3305190.8016032064, 3313177.1142284567, 3321163.4268537075, 3329149.739478958, 3337136.0521042086, 3345122.364729459, 3353108.6773547092, 3361094.98997996, 3369081.3026052103, 3377067.615230461, 3385053.9278557114, 3393040.2404809617, 3401026.5531062125, 3409012.865731463, 3416999.1783567136, 3424985.490981964, 3432971.8036072142, 3440958.116232465, 3448944.4288577153, 3456930.741482966, 3464917.0541082164, 3472903.3667334667, 3480889.6793587175, 3488875.991983968, 3496862.3046092186, 3504848.617234469, 3512834.9298597192, 3520821.24248497, 3528807.5551102203, 3536793.867735471, 3544780.1803607214, 3552766.4929859717, 3560752.8056112225, 3568739.118236473, 3576725.4308617236, 3584711.743486974, 3592698.0561122242, 3600684.368737475, 3608670.6813627253, 3616656.993987976, 3624643.3066132264, 3632629.6192384767, 3640615.9318637275, 3648602.244488978, 3656588.5571142286, 3664574.869739479, 3672561.1823647292, 3680547.49498998, 3688533.8076152303, 3696520.120240481, 3704506.4328657314, 3712492.7454909817, 3720479.0581162325, 3728465.370741483, 3736451.6833667336, 3744437.995991984, 3752424.3086172347, 3760410.621242485, 3768396.9338677353, 3776383.246492986, 3784369.5591182364, 3792355.871743487, 3800342.1843687375, 3808328.496993988, 3816314.8096192386, 3824301.122244489, 3832287.4348697397, 3840273.74749499, 3848260.0601202403, 3856246.372745491, 3864232.6853707414, 3872218.997995992, 3880205.3106212425, 3888191.623246493, 3896177.9358717436, 3904164.248496994, 3912150.5611222447, 3920136.873747495, 3928123.1863727453, 3936109.498997996, 3944095.8116232464, 3952082.124248497, 3960068.4368737475, 3968054.749498998, 3976041.0621242486, 3984027.374749499, 3992013.6873747497, 4000000.0])
+              .range(['#008000ff', '#007f01ff', '#007f02ff', '#007e03ff', '#007e04ff', '#007d05ff', '#007d06ff', '#007c07ff', '#007c08ff', '#007b09ff', '#007b0aff', '#007a0bff', '#007a0cff', '#00790dff', '#00790eff', '#00780fff', '#007810ff', '#007711ff', '#007712ff', '#007613ff', '#007614ff', '#007515ff', '#007516ff', '#007417ff', '#007418ff', '#007319ff', '#00731aff', '#00721bff', '#00721cff', '#00711dff', '#00711eff', '#00701fff', '#007020ff', '#006f21ff', '#006e22ff', '#006e23ff', '#006d24ff', '#006d25ff', '#006c26ff', '#006c28ff', '#006b29ff', '#006b2aff', '#006a2bff', '#006a2cff', '#00692dff', '#00692eff', '#00682fff', '#006830ff', '#006731ff', '#006732ff', '#006633ff', '#006634ff', '#006535ff', '#006536ff', '#006437ff', '#006438ff', '#006339ff', '#00633aff', '#00623bff', '#00623cff', '#00613dff', '#00613eff', '#00603fff', '#006040ff', '#005f41ff', '#005f42ff', '#005e43ff', '#005d44ff', '#005d45ff', '#005c46ff', '#005c47ff', '#005b48ff', '#005b49ff', '#005a4aff', '#005a4bff', '#00594cff', '#00594dff', '#00584fff', '#005850ff', '#005751ff', '#005752ff', '#005653ff', '#005654ff', '#005555ff', '#005556ff', '#005457ff', '#005458ff', '#005359ff', '#00535aff', '#00525bff', '#00525cff', '#00515dff', '#00515eff', '#00505fff', '#005060ff', '#004f61ff', '#004f62ff', '#004e63ff', '#004e64ff', '#004d65ff', '#004c66ff', '#004c67ff', '#004b68ff', '#004b69ff', '#004a6aff', '#004a6bff', '#00496cff', '#00496dff', '#00486eff', '#00486fff', '#004770ff', '#004771ff', '#004672ff', '#004673ff', '#004574ff', '#004575ff', '#004477ff', '#004478ff', '#004379ff', '#00437aff', '#00427bff', '#00427cff', '#00417dff', '#00417eff', '#00407fff', '#004080ff', '#003f81ff', '#003f82ff', '#003e83ff', '#003e84ff', '#003d85ff', '#003d86ff', '#003c87ff', '#003c88ff', '#003b89ff', '#003a8aff', '#003a8bff', '#00398cff', '#00398dff', '#00388eff', '#00388fff', '#003790ff', '#003791ff', '#003692ff', '#003693ff', '#003594ff', '#003595ff', '#003496ff', '#003497ff', '#003398ff', '#003399ff', '#00329aff', '#00329bff', '#00319cff', '#00319eff', '#00309fff', '#0030a0ff', '#002fa1ff', '#002fa2ff', '#002ea3ff', '#002ea4ff', '#002da5ff', '#002da6ff', '#002ca7ff', '#002ca8ff', '#002ba9ff', '#002baaff', '#002aabff', '#0029acff', '#0029adff', '#0028aeff', '#0028afff', '#0027b0ff', '#0027b1ff', '#0026b2ff', '#0026b3ff', '#0025b4ff', '#0025b5ff', '#0024b6ff', '#0024b7ff', '#0023b8ff', '#0023b9ff', '#0022baff', '#0022bbff', '#0021bcff', '#0021bdff', '#0020beff', '#0020bfff', '#001fc0ff', '#001fc1ff', '#001ec2ff', '#001ec3ff', '#001dc5ff', '#001dc6ff', '#001cc7ff', '#001cc8ff', '#001bc9ff', '#001bcaff', '#001acbff', '#001accff', '#0019cdff', '#0018ceff', '#0018cfff', '#0017d0ff', '#0017d1ff', '#0016d2ff', '#0016d3ff', '#0015d4ff', '#0015d5ff', '#0014d6ff', '#0014d7ff', '#0013d8ff', '#0013d9ff', '#0012daff', '#0012dbff', '#0011dcff', '#0011ddff', '#0010deff', '#0010dfff', '#000fe0ff', '#000fe1ff', '#000ee2ff', '#000ee3ff', '#000de4ff', '#000de5ff', '#000ce6ff', '#000ce7ff', '#000be8ff', '#000be9ff', '#000aeaff', '#000aebff', '#0009edff', '#0009eeff', '#0008efff', '#0007f0ff', '#0007f1ff', '#0006f2ff', '#0006f3ff', '#0005f4ff', '#0005f5ff', '#0004f6ff', '#0004f7ff', '#0003f8ff', '#0003f9ff', '#0002faff', '#0002fbff', '#0001fcff', '#0001fdff', '#0000feff', '#0000ffff', '#0000ffff', '#0100feff', '#0200fdff', '#0300fcff', '#0400fbff', '#0500faff', '#0600f9ff', '#0700f8ff', '#0800f7ff', '#0900f6ff', '#0a00f5ff', '#0b00f4ff', '#0c00f3ff', '#0d00f2ff', '#0e00f1ff', '#0f00f0ff', '#1000efff', '#1100eeff', '#1200edff', '#1400ebff', '#1500eaff', '#1600e9ff', '#1700e8ff', '#1800e7ff', '#1900e6ff', '#1a00e5ff', '#1b00e4ff', '#1c00e3ff', '#1d00e2ff', '#1e00e1ff', '#1f00e0ff', '#2000dfff', '#2100deff', '#2200ddff', '#2300dcff', '#2400dbff', '#2500daff', '#2600d9ff', '#2700d8ff', '#2800d7ff', '#2900d6ff', '#2a00d5ff', '#2b00d4ff', '#2c00d3ff', '#2d00d2ff', '#2e00d1ff', '#2f00d0ff', '#3000cfff', '#3100ceff', '#3200cdff', '#3300ccff', '#3400cbff', '#3500caff', '#3600c9ff', '#3700c8ff', '#3800c7ff', '#3900c6ff', '#3a00c5ff', '#3c00c3ff', '#3d00c2ff', '#3e00c1ff', '#3f00c0ff', '#4000bfff', '#4100beff', '#4200bdff', '#4300bcff', '#4400bbff', '#4500baff', '#4600b9ff', '#4700b8ff', '#4800b7ff', '#4900b6ff', '#4a00b5ff', '#4b00b4ff', '#4c00b3ff', '#4d00b2ff', '#4e00b1ff', '#4f00b0ff', '#5000afff', '#5100aeff', '#5200adff', '#5300acff', '#5400abff', '#5500aaff', '#5600a9ff', '#5700a8ff', '#5800a7ff', '#5900a6ff', '#5a00a5ff', '#5b00a4ff', '#5c00a3ff', '#5d00a2ff', '#5e00a1ff', '#5f00a0ff', '#60009fff', '#61009eff', '#63009cff', '#64009bff', '#65009aff', '#660099ff', '#670098ff', '#680097ff', '#690096ff', '#6a0095ff', '#6b0094ff', '#6c0093ff', '#6d0092ff', '#6e0091ff', '#6f0090ff', '#70008fff', '#71008eff', '#72008dff', '#73008cff', '#74008bff', '#75008aff', '#760089ff', '#770088ff', '#780087ff', '#790086ff', '#7a0085ff', '#7b0084ff', '#7c0083ff', '#7d0082ff', '#7e0081ff', '#7f0080ff', '#80007fff', '#81007eff', '#82007dff', '#83007cff', '#84007bff', '#85007aff', '#860079ff', '#870078ff', '#880077ff', '#8a0075ff', '#8b0074ff', '#8c0073ff', '#8d0072ff', '#8e0071ff', '#8f0070ff', '#90006fff', '#91006eff', '#92006dff', '#93006cff', '#94006bff', '#95006aff', '#960069ff', '#970068ff', '#980067ff', '#990066ff', '#9a0065ff', '#9b0064ff', '#9c0063ff', '#9d0062ff', '#9e0061ff', '#9f0060ff', '#a0005fff', '#a1005eff', '#a2005dff', '#a3005cff', '#a4005bff', '#a5005aff', '#a60059ff', '#a70058ff', '#a80057ff', '#a90056ff', '#aa0055ff', '#ab0054ff', '#ac0053ff', '#ad0052ff', '#ae0051ff', '#af0050ff', '#b0004fff', '#b2004dff', '#b3004cff', '#b4004bff', '#b5004aff', '#b60049ff', '#b70048ff', '#b80047ff', '#b90046ff', '#ba0045ff', '#bb0044ff', '#bc0043ff', '#bd0042ff', '#be0041ff', '#bf0040ff', '#c0003fff', '#c1003eff', '#c2003dff', '#c3003cff', '#c4003bff', '#c5003aff', '#c60039ff', '#c70038ff', '#c80037ff', '#c90036ff', '#ca0035ff', '#cb0034ff', '#cc0033ff', '#cd0032ff', '#ce0031ff', '#cf0030ff', '#d0002fff', '#d1002eff', '#d2002dff', '#d3002cff', '#d4002bff', '#d5002aff', '#d60029ff', '#d70028ff', '#d90026ff', '#da0025ff', '#db0024ff', '#dc0023ff', '#dd0022ff', '#de0021ff', '#df0020ff', '#e0001fff', '#e1001eff', '#e2001dff', '#e3001cff', '#e4001bff', '#e5001aff', '#e60019ff', '#e70018ff', '#e80017ff', '#e90016ff', '#ea0015ff', '#eb0014ff', '#ec0013ff', '#ed0012ff', '#ee0011ff', '#ef0010ff', '#f0000fff', '#f1000eff', '#f2000dff', '#f3000cff', '#f4000bff', '#f5000aff', '#f60009ff', '#f70008ff', '#f80007ff', '#f90006ff', '#fa0005ff', '#fb0004ff', '#fc0003ff', '#fd0002ff', '#fe0001ff', '#ff0000ff']);
+    
+
+    color_map_3017bf2e1cd33ba5c24615813cf778f3.x = d3.scale.linear()
+              .domain([14830.0, 4000000.0])
+              .range([0, 450 - 50]);
+
+    color_map_3017bf2e1cd33ba5c24615813cf778f3.legend = L.control({position: 'topright'});
+    color_map_3017bf2e1cd33ba5c24615813cf778f3.legend.onAdd = function (map) {var div = L.DomUtil.create('div', 'legend'); return div};
+    color_map_3017bf2e1cd33ba5c24615813cf778f3.legend.addTo(map_1420a95df838e9dfba21a7191129798c);
+
+    color_map_3017bf2e1cd33ba5c24615813cf778f3.xAxis = d3.svg.axis()
+        .scale(color_map_3017bf2e1cd33ba5c24615813cf778f3.x)
+        .orient("top")
+        .tickSize(1)
+        .tickValues([14830.0, 2007415.0, 4000000.0]);
+
+    color_map_3017bf2e1cd33ba5c24615813cf778f3.svg = d3.select(".legend.leaflet-control").append("svg")
+        .attr("id", 'legend')
+        .attr("width", 450)
+        .attr("height", 40);
+
+    color_map_3017bf2e1cd33ba5c24615813cf778f3.g = color_map_3017bf2e1cd33ba5c24615813cf778f3.svg.append("g")
+        .attr("class", "key")
+        .attr("transform", "translate(25,16)");
+
+    color_map_3017bf2e1cd33ba5c24615813cf778f3.g.selectAll("rect")
+        .data(color_map_3017bf2e1cd33ba5c24615813cf778f3.color.range().map(function(d, i) {
+          return {
+            x0: i ? color_map_3017bf2e1cd33ba5c24615813cf778f3.x(color_map_3017bf2e1cd33ba5c24615813cf778f3.color.domain()[i - 1]) : color_map_3017bf2e1cd33ba5c24615813cf778f3.x.range()[0],
+            x1: i < color_map_3017bf2e1cd33ba5c24615813cf778f3.color.domain().length ? color_map_3017bf2e1cd33ba5c24615813cf778f3.x(color_map_3017bf2e1cd33ba5c24615813cf778f3.color.domain()[i]) : color_map_3017bf2e1cd33ba5c24615813cf778f3.x.range()[1],
+            z: d
+          };
+        }))
+      .enter().append("rect")
+        .attr("height", 40 - 30)
+        .attr("x", function(d) { return d.x0; })
+        .attr("width", function(d) { return d.x1 - d.x0; })
+        .style("fill", function(d) { return d.z; });
+
+    color_map_3017bf2e1cd33ba5c24615813cf778f3.g.call(color_map_3017bf2e1cd33ba5c24615813cf778f3.xAxis).append("text")
+        .attr("class", "caption")
+        .attr("y", 21)
+        .text("ridership");
+    
+            tile_layer_17096de61178672aac86153451d0d701.addTo(map_1420a95df838e9dfba21a7191129798c);
+        
+    
+            tile_layer_17096de61178672aac86153451d0d701.addTo(map_1420a95df838e9dfba21a7191129798c);
+        
+    
+            var marker_ee384f67649545098b56d0cd520db7e6 = L.marker(
+                [40.68436050415039, -73.97766876220703],
+                {}
+            ).addTo(map_1420a95df838e9dfba21a7191129798c);
+        
+    
+            var icon_08d53da9c3225284094c0400369c7224 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "orange", "prefix": "glyphicon"}
+            );
+            marker_ee384f67649545098b56d0cd520db7e6.setIcon(icon_08d53da9c3225284094c0400369c7224);
+        
+    
+        var popup_29a5082bd1b306b71c62f3553652e7bc = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_2ffc5f88344bea5e786d09c286bce7da = $(`<div id="html_2ffc5f88344bea5e786d09c286bce7da" style="width: 100.0%; height: 100.0%;"><b>Atlantic Av-Barclays Ctr (B,D,N,Q,R,2,3,4,5)</b><br>Num of Passengers: 2,282,182<br>Region: Manhattan<br>Average Unemp. Beneficiaries : 23,769 </div>`)[0];
+                popup_29a5082bd1b306b71c62f3553652e7bc.setContent(html_2ffc5f88344bea5e786d09c286bce7da);
+            
+        
+
+        marker_ee384f67649545098b56d0cd520db7e6.bindPopup(popup_29a5082bd1b306b71c62f3553652e7bc)
+        ;
+
+        
+    
+    
+            tile_layer_17096de61178672aac86153451d0d701.addTo(map_1420a95df838e9dfba21a7191129798c);
+        
+</script>
+</html>
